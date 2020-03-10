@@ -1,0 +1,390 @@
+Removed Member From Class: ClassName=TEST_SCH Member=*
+Removed Member From Class: ClassName=TEST_SCH Member=Servo_?
+Change Component Designator: OldDesignator=* NewDesignator=Back_Left_Encoder
+Change Component Designator: OldDesignator=* NewDesignator=Back_Right_Encoder
+Change Component Designator: OldDesignator=* NewDesignator=Front_Left_Encoder
+Change Component Designator: OldDesignator=* NewDesignator=Front_Right_Encoder
+Change Component Designator: OldDesignator=Engine_con* NewDesignator=Front_Left
+Change Component Designator: OldDesignator=R? NewDesignator=R180
+Change Component Designator: OldDesignator=R? NewDesignator=R180
+Change Component Designator: OldDesignator=R? NewDesignator=R180
+Change Component Designator: OldDesignator=R? NewDesignator=R_M
+Added Component: Designator=ANYFC_F7(JST SR SH 1.0)
+Added Component: Designator=Back_Left(DG300-5.0-03P-12-00A)
+Added Component: Designator=Back_Left(PCBComponent_1)
+Added Component: Designator=Back_Right(DG300-5.0-03P-12-00A)
+Added Component: Designator=Back_Right(PCBComponent_1)
+Added Component: Designator=C?(5mm)
+Added Component: Designator=C?(5mm)
+Added Component: Designator=C?(5mm)
+Added Component: Designator=C?(5mm)
+Added Component: Designator=C?(5mm)
+Added Component: Designator=C?(5mm)
+Added Component: Designator=C?(5mm)
+Added Component: Designator=C?(5mm)
+Added Component: Designator=C?(5mm)
+Added Component: Designator=C?(5mm)
+Added Component: Designator=Front_Left(PCBComponent_1)
+Added Component: Designator=Front_Right(DG300-5.0-03P-12-00A)
+Added Component: Designator=Front_Right(PCBComponent_1)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=R_M(R0603)
+Added Component: Designator=R_M(R0603)
+Added Component: Designator=R_M(R0603)
+Added Component: Designator=R_M(R0603)
+Added Component: Designator=R_M(R0603)
+Added Component: Designator=R_M(R0603)
+Added Component: Designator=R_M(R0603)
+Added Component: Designator=R_M(R0603)
+Added Component: Designator=R_M(R0603)
+Added Component: Designator=R_M(R0603)
+Added Component: Designator=R_M(R0603)
+Added Component: Designator=R_M(R0603)
+Added Component: Designator=R_M(R0603)
+Added Component: Designator=R_M(R0603)
+Added Component: Designator=R_M(R0603)
+Added Component: Designator=R_M(R0603)
+Added Component: Designator=R_M(R0603)
+Added Component: Designator=R_M(R0603)
+Added Component: Designator=R_M(R0603)
+Added Component: Designator=R_M(R0603)
+Added Component: Designator=R_M(R0603)
+Added Component: Designator=R_M(R0603)
+Added Component: Designator=R_M(R0603)
+Added Component: Designator=Servo_Supply(2-pin-zielony-kat)
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=ANYFC_F7-1
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=ANYFC_F7-2
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=Back_Left_Encoder-1
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=Back_Left_Encoder-2
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=Back_Right_Encoder-1
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=Back_Right_Encoder-2
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=Front_Left_Encoder-1
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=Front_Left_Encoder-2
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=Front_Right_Encoder-1
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=Front_Right_Encoder-2
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=R180-1
+Change Net Name : Old Net Name=Net3.3V_Supply_1 New Net Name=GND_3V3
+Change Net Name : Old Net Name=Net3.3V_Supply_2 New Net Name=3V3
+Added Pin To Net: NetName=GND_MOTOR Pin=C?-2
+Added Pin To Net: NetName=GND_MOTOR Pin=C?-2
+Added Pin To Net: NetName=GND_MOTOR Pin=C?-2
+Added Pin To Net: NetName=GND_MOTOR Pin=C?-2
+Added Pin To Net: NetName=GND_MOTOR Pin=C?-2
+Added Pin To Net: NetName=GND_MOTOR Pin=C?-2
+Added Pin To Net: NetName=GND_MOTOR Pin=C?-2
+Added Pin To Net: NetName=GND_MOTOR Pin=C?-2
+Added Pin To Net: NetName=GND_MOTOR Pin=C?-2
+Added Pin To Net: NetName=GND_MOTOR Pin=C?-2
+Added Pin To Net: NetName=GND_MOTOR Pin=C?-2
+Added Pin To Net: NetName=GND_MOTOR Pin=C?-2
+Added Pin To Net: NetName=GND_MOTOR Pin=MOSFET_?-S
+Added Pin To Net: NetName=GND_MOTOR Pin=MOSFET_?-S
+Added Pin To Net: NetName=GND_MOTOR Pin=MOSFET_?-S
+Added Pin To Net: NetName=GND_MOTOR Pin=MOSFET_?-S
+Added Pin To Net: NetName=GND_MOTOR Pin=MOSFET_?-S
+Added Pin To Net: NetName=GND_MOTOR Pin=MOSFET_?-S
+Added Pin To Net: NetName=GND_MOTOR Pin=MOSFET_?-S
+Added Pin To Net: NetName=GND_MOTOR Pin=MOSFET_?-S
+Added Pin To Net: NetName=GND_MOTOR Pin=MOSFET_?-S
+Added Pin To Net: NetName=GND_MOTOR Pin=MOSFET_?-S
+Added Pin To Net: NetName=GND_MOTOR Pin=MOSFET_?-S
+Added Pin To Net: NetName=GND_MOTOR Pin=MOSFET_?-S
+Added Net: Name=GND_MOTOR
+Added Pin To Net: NetName=NetANYFC_F7_3 Pin=ANYFC_F7-3
+Added Pin To Net: NetName=NetANYFC_F7_3 Pin=STM32_?-30
+Added Net: Name=NetANYFC_F7_3
+Added Pin To Net: NetName=NetANYFC_F7_4 Pin=ANYFC_F7-4
+Added Pin To Net: NetName=NetANYFC_F7_4 Pin=STM32_?-29
+Added Net: Name=NetANYFC_F7_4
+Added Pin To Net: NetName=NetANYFC_F7_5 Pin=ANYFC_F7-5
+Added Pin To Net: NetName=NetANYFC_F7_5 Pin=STM32_?-28
+Added Net: Name=NetANYFC_F7_5
+Added Pin To Net: NetName=NetB_1 Pin=B-1
+Added Pin To Net: NetName=NetB_1 Pin=R180-2
+Added Net: Name=NetB_1
+Added Pin To Net: NetName=NetB_2 Pin=B-2
+Added Pin To Net: NetName=NetB_2 Pin=G-2
+Added Pin To Net: NetName=NetB_2 Pin=R-2
+Added Net: Name=NetB_2
+Added Pin To Net: NetName=NetBack_Left_1 Pin=Back_Left-1
+Added Pin To Net: NetName=NetBack_Left_1 Pin=Back_Left-2
+Added Pin To Net: NetName=NetBack_Left_1 Pin=Back_Left-3
+Added Pin To Net: NetName=NetBack_Left_1 Pin=C?-1
+Added Pin To Net: NetName=NetBack_Left_1 Pin=C?-1
+Added Pin To Net: NetName=NetBack_Left_1 Pin=C?-1
+Added Pin To Net: NetName=NetBack_Left_1 Pin=MOSFET_?-D
+Added Pin To Net: NetName=NetBack_Left_1 Pin=MOSFET_?-S
+Added Net: Name=NetBack_Left_1
+Added Pin To Net: NetName=NetBack_Left_2 Pin=Back_Left-2
+Added Pin To Net: NetName=NetBack_Left_2 Pin=Back_Right-2
+Added Pin To Net: NetName=NetBack_Left_2 Pin=Front_Left-2
+Added Pin To Net: NetName=NetBack_Left_2 Pin=Front_Right-2
+Added Pin To Net: NetName=NetBack_Left_2 Pin=Servo_Supply-2
+Added Net: Name=NetBack_Left_2
+Added Pin To Net: NetName=NetBack_Left_3 Pin=Back_Left-3
+Added Pin To Net: NetName=NetBack_Left_3 Pin=STM32_?-99
+Added Net: Name=NetBack_Left_3
+Added Pin To Net: NetName=NetBack_Left_Encoder_3 Pin=Back_Left_Encoder-3
+Added Pin To Net: NetName=NetBack_Left_Encoder_3 Pin=STM32_?-63
+Added Net: Name=NetBack_Left_Encoder_3
+Added Pin To Net: NetName=NetBack_Left_Encoder_4 Pin=Back_Left_Encoder-4
+Added Pin To Net: NetName=NetBack_Left_Encoder_4 Pin=STM32_?-162
+Added Net: Name=NetBack_Left_Encoder_4
+Added Pin To Net: NetName=NetBack_Left_Encoder_5 Pin=Back_Left_Encoder-5
+Added Pin To Net: NetName=NetBack_Left_Encoder_5 Pin=STM32_?-161
+Added Net: Name=NetBack_Left_Encoder_5
+Added Pin To Net: NetName=NetBack_Right_1 Pin=Back_Right-1
+Added Pin To Net: NetName=NetBack_Right_1 Pin=Back_Right-2
+Added Pin To Net: NetName=NetBack_Right_1 Pin=Back_Right-3
+Added Pin To Net: NetName=NetBack_Right_1 Pin=C?-1
+Added Pin To Net: NetName=NetBack_Right_1 Pin=C?-1
+Added Pin To Net: NetName=NetBack_Right_1 Pin=C?-1
+Added Pin To Net: NetName=NetBack_Right_1 Pin=MOSFET_?-D
+Added Pin To Net: NetName=NetBack_Right_1 Pin=MOSFET_?-S
+Added Net: Name=NetBack_Right_1
+Added Pin To Net: NetName=NetBack_Right_3 Pin=Back_Right-3
+Added Pin To Net: NetName=NetBack_Right_3 Pin=STM32_?-96
+Added Net: Name=NetBack_Right_3
+Added Pin To Net: NetName=NetBack_Right_Encoder_3 Pin=Back_Right_Encoder-3
+Added Pin To Net: NetName=NetBack_Right_Encoder_3 Pin=STM32_?-5
+Added Net: Name=NetBack_Right_Encoder_3
+Added Pin To Net: NetName=NetBack_Right_Encoder_4 Pin=Back_Right_Encoder-4
+Added Pin To Net: NetName=NetBack_Right_Encoder_4 Pin=STM32_?-4
+Added Net: Name=NetBack_Right_Encoder_4
+Added Pin To Net: NetName=NetBack_Right_Encoder_5 Pin=Back_Right_Encoder-5
+Added Pin To Net: NetName=NetBack_Right_Encoder_5 Pin=STM32_?-1
+Added Net: Name=NetBack_Right_Encoder_5
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=Front_Right-1
+Added Pin To Net: NetName=NetC?_1 Pin=Front_Right-2
+Added Pin To Net: NetName=NetC?_1 Pin=Front_Right-3
+Added Pin To Net: NetName=NetC?_1 Pin=MOSFET_?-D
+Added Pin To Net: NetName=NetC?_1 Pin=MOSFET_?-S
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetFront_Left_3 Pin=Front_Left-3
+Added Pin To Net: NetName=NetFront_Left_3 Pin=STM32_?-164
+Added Net: Name=NetFront_Left_3
+Added Pin To Net: NetName=NetFront_Left_Encoder_3 Pin=Front_Left_Encoder-3
+Added Pin To Net: NetName=NetFront_Left_Encoder_3 Pin=STM32_?-173
+Added Net: Name=NetFront_Left_Encoder_3
+Added Pin To Net: NetName=NetFront_Left_Encoder_4 Pin=Front_Left_Encoder-4
+Added Pin To Net: NetName=NetFront_Left_Encoder_4 Pin=STM32_?-178
+Added Net: Name=NetFront_Left_Encoder_4
+Added Pin To Net: NetName=NetFront_Left_Encoder_5 Pin=Front_Left_Encoder-5
+Added Pin To Net: NetName=NetFront_Left_Encoder_5 Pin=STM32_?-180
+Added Net: Name=NetFront_Left_Encoder_5
+Added Pin To Net: NetName=NetFront_Right_3 Pin=Front_Right-3
+Added Pin To Net: NetName=NetFront_Right_3 Pin=STM32_?-165
+Added Net: Name=NetFront_Right_3
+Added Pin To Net: NetName=NetFront_Right_Encoder_3 Pin=Front_Right_Encoder-3
+Added Pin To Net: NetName=NetFront_Right_Encoder_3 Pin=STM32_?-36
+Added Net: Name=NetFront_Right_Encoder_3
+Added Pin To Net: NetName=NetFront_Right_Encoder_4 Pin=Front_Right_Encoder-4
+Added Pin To Net: NetName=NetFront_Right_Encoder_4 Pin=STM32_?-37
+Added Net: Name=NetFront_Right_Encoder_4
+Added Pin To Net: NetName=NetFront_Right_Encoder_5 Pin=Front_Right_Encoder-5
+Added Pin To Net: NetName=NetFront_Right_Encoder_5 Pin=STM32_?-105
+Added Net: Name=NetFront_Right_Encoder_5
+Added Pin To Net: NetName=NetG_1 Pin=G-1
+Added Pin To Net: NetName=NetG_1 Pin=R180-2
+Added Net: Name=NetG_1
+Added Pin To Net: NetName=NetMOSFET_?_D Pin=MOSFET_?-D
+Added Pin To Net: NetName=NetMOSFET_?_D Pin=MOSFET_?-S
+Added Net: Name=NetMOSFET_?_D
+Added Pin To Net: NetName=NetMOSFET_?_G Pin=MOSFET_?-G
+Added Pin To Net: NetName=NetMOSFET_?_G Pin=R_M-2
+Added Net: Name=NetMOSFET_?_G
+Added Pin To Net: NetName=NetR180_2 Pin=R180-2
+Added Pin To Net: NetName=NetR180_2 Pin=R-1
+Added Net: Name=NetR180_2
+Added Pin To Net: NetName=NetR_M_1 Pin=R_M-1
+Added Pin To Net: NetName=NetR_M_1 Pin=TO1-11
+Added Net: Name=NetR_M_1
+Added Pin To Net: NetName=NetSTM32_?_43 Pin=STM32_?-43
+Added Pin To Net: NetName=NetSTM32_?_43 Pin=TO2-6
+Added Net: Name=NetSTM32_?_43
+Added Pin To Net: NetName=NetSTM32_?_44 Pin=STM32_?-44
+Added Pin To Net: NetName=NetSTM32_?_44 Pin=TO2-5
+Added Net: Name=NetSTM32_?_44
+Added Pin To Net: NetName=NetSTM32_?_45 Pin=STM32_?-45
+Added Pin To Net: NetName=NetSTM32_?_45 Pin=TO2-4
+Added Net: Name=NetSTM32_?_45
+Added Pin To Net: NetName=NetSTM32_?_50 Pin=STM32_?-50
+Added Pin To Net: NetName=NetSTM32_?_50 Pin=TO2-3
+Added Net: Name=NetSTM32_?_50
+Added Pin To Net: NetName=NetSTM32_?_55 Pin=STM32_?-55
+Added Pin To Net: NetName=NetSTM32_?_55 Pin=TO3-6
+Added Net: Name=NetSTM32_?_55
+Added Pin To Net: NetName=NetSTM32_?_56 Pin=STM32_?-56
+Added Pin To Net: NetName=NetSTM32_?_56 Pin=TO3-5
+Added Net: Name=NetSTM32_?_56
+Added Pin To Net: NetName=NetSTM32_?_61 Pin=STM32_?-61
+Added Pin To Net: NetName=NetSTM32_?_61 Pin=TO3-4
+Added Net: Name=NetSTM32_?_61
+Added Pin To Net: NetName=NetSTM32_?_62 Pin=STM32_?-62
+Added Pin To Net: NetName=NetSTM32_?_62 Pin=TO3-3
+Added Net: Name=NetSTM32_?_62
+Added Pin To Net: NetName=NetSTM32_?_81 Pin=STM32_?-81
+Added Pin To Net: NetName=NetSTM32_?_81 Pin=TO1-6
+Added Net: Name=NetSTM32_?_81
+Added Pin To Net: NetName=NetSTM32_?_85 Pin=STM32_?-85
+Added Pin To Net: NetName=NetSTM32_?_85 Pin=TO1-5
+Added Net: Name=NetSTM32_?_85
+Added Pin To Net: NetName=NetSTM32_?_87 Pin=STM32_?-87
+Added Pin To Net: NetName=NetSTM32_?_87 Pin=TO1-4
+Added Net: Name=NetSTM32_?_87
+Added Pin To Net: NetName=NetSTM32_?_88 Pin=STM32_?-88
+Added Pin To Net: NetName=NetSTM32_?_88 Pin=TO1-3
+Added Net: Name=NetSTM32_?_88
+Added Pin To Net: NetName=NetSTM32_?_100 Pin=STM32_?-100
+Added Pin To Net: NetName=NetSTM32_?_100 Pin=TO5-6
+Added Net: Name=NetSTM32_?_100
+Added Pin To Net: NetName=NetSTM32_?_101 Pin=STM32_?-101
+Added Pin To Net: NetName=NetSTM32_?_101 Pin=TO5-5
+Added Net: Name=NetSTM32_?_101
+Added Pin To Net: NetName=NetSTM32_?_102 Pin=STM32_?-102
+Added Pin To Net: NetName=NetSTM32_?_102 Pin=TO5-4
+Added Net: Name=NetSTM32_?_102
+Added Pin To Net: NetName=NetSTM32_?_112 Pin=STM32_?-112
+Added Pin To Net: NetName=NetSTM32_?_112 Pin=TO4-6
+Added Net: Name=NetSTM32_?_112
+Added Pin To Net: NetName=NetSTM32_?_113 Pin=STM32_?-113
+Added Pin To Net: NetName=NetSTM32_?_113 Pin=TO4-5
+Added Net: Name=NetSTM32_?_113
+Added Pin To Net: NetName=NetSTM32_?_116 Pin=STM32_?-116
+Added Pin To Net: NetName=NetSTM32_?_116 Pin=TO4-4
+Added Net: Name=NetSTM32_?_116
+Added Pin To Net: NetName=NetSTM32_?_117 Pin=STM32_?-117
+Added Pin To Net: NetName=NetSTM32_?_117 Pin=TO4-3
+Added Net: Name=NetSTM32_?_117
+Added Pin To Net: NetName=NetSTM32_?_138 Pin=STM32_?-138
+Added Pin To Net: NetName=NetSTM32_?_138 Pin=TO6-6
+Added Net: Name=NetSTM32_?_138
+Added Pin To Net: NetName=NetSTM32_?_139 Pin=STM32_?-139
+Added Pin To Net: NetName=NetSTM32_?_139 Pin=TO6-5
+Added Net: Name=NetSTM32_?_139
+Added Pin To Net: NetName=NetSTM32_?_140 Pin=STM32_?-140
+Added Pin To Net: NetName=NetSTM32_?_140 Pin=TO6-4
+Added Net: Name=NetSTM32_?_140
+Added Pin To Net: NetName=NetSTM32_?_141 Pin=STM32_?-141
+Added Pin To Net: NetName=NetSTM32_?_141 Pin=TO6-3
+Added Net: Name=NetSTM32_?_141
+Added Pin To Net: NetName=NetSTM32_?_154 Pin=STM32_?-154
+Added Pin To Net: NetName=NetSTM32_?_154 Pin=TO5-3
+Added Net: Name=NetSTM32_?_154
+Added Pin To Net: NetName=VCC_MOTOR Pin=MOSFET_?-D
+Added Pin To Net: NetName=VCC_MOTOR Pin=MOSFET_?-D
+Added Pin To Net: NetName=VCC_MOTOR Pin=MOSFET_?-D
+Added Pin To Net: NetName=VCC_MOTOR Pin=MOSFET_?-D
+Added Pin To Net: NetName=VCC_MOTOR Pin=MOSFET_?-D
+Added Pin To Net: NetName=VCC_MOTOR Pin=MOSFET_?-D
+Added Pin To Net: NetName=VCC_MOTOR Pin=MOSFET_?-D
+Added Pin To Net: NetName=VCC_MOTOR Pin=MOSFET_?-D
+Added Pin To Net: NetName=VCC_MOTOR Pin=MOSFET_?-D
+Added Pin To Net: NetName=VCC_MOTOR Pin=MOSFET_?-D
+Added Pin To Net: NetName=VCC_MOTOR Pin=MOSFET_?-D
+Added Pin To Net: NetName=VCC_MOTOR Pin=MOSFET_?-D
+Added Net: Name=VCC_MOTOR
+Added Member To Class: ClassName=TEST_SCH Member=Component ANYFC_F7 SPI
+Added Member To Class: ClassName=TEST_SCH Member=Component Back_Left_Encoder SPI
+Added Member To Class: ClassName=TEST_SCH Member=Component Back_Left 3_phase_engine_con
+Added Member To Class: ClassName=TEST_SCH Member=Component Back_Left Servo_con
+Added Member To Class: ClassName=TEST_SCH Member=Component Back_Right_Encoder SPI
+Added Member To Class: ClassName=TEST_SCH Member=Component Back_Right 3_phase_engine_con
+Added Member To Class: ClassName=TEST_SCH Member=Component Back_Right Servo_con
+Added Member To Class: ClassName=TEST_SCH Member=Component C10n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C? Cap_pol
+Added Member To Class: ClassName=TEST_SCH Member=Component C? Cap_pol
+Added Member To Class: ClassName=TEST_SCH Member=Component C? Cap_pol
+Added Member To Class: ClassName=TEST_SCH Member=Component C? Cap_pol
+Added Member To Class: ClassName=TEST_SCH Member=Component C? Cap_pol
+Added Member To Class: ClassName=TEST_SCH Member=Component C? Cap_pol
+Added Member To Class: ClassName=TEST_SCH Member=Component C? Cap_pol
+Added Member To Class: ClassName=TEST_SCH Member=Component C? Cap_pol
+Added Member To Class: ClassName=TEST_SCH Member=Component C? Cap_pol
+Added Member To Class: ClassName=TEST_SCH Member=Component C? Cap_pol
+Added Member To Class: ClassName=TEST_SCH Member=Component C? Cap_pol
+Added Member To Class: ClassName=TEST_SCH Member=Component Front_Left_Encoder SPI
+Added Member To Class: ClassName=TEST_SCH Member=Component Front_Left Servo_con
+Added Member To Class: ClassName=TEST_SCH Member=Component Front_Right_Encoder SPI
+Added Member To Class: ClassName=TEST_SCH Member=Component Front_Right 3_phase_engine_con
+Added Member To Class: ClassName=TEST_SCH Member=Component Front_Right Servo_con
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component R10k Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R22 Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R180 Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R180 Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R_M Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R_M Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R_M Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R_M Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R_M Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R_M Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R_M Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R_M Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R_M Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R_M Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R_M Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R_M Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R_M Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R_M Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R_M Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R_M Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R_M Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R_M Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R_M Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R_M Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R_M Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R_M Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R_M Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R_M Res
+Added Member To Class: ClassName=TEST_SCH Member=Component Servo_Supply 2-pin

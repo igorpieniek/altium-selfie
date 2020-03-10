@@ -1,0 +1,117 @@
+Change Component Designator: OldDesignator=Big-MOSFET-Switch NewDesignator=Big-MOSFET0
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=XL4015_1 NewDesignator=XL4015_5-2
+Change Component Designator: OldDesignator=XL4015_5 NewDesignator=XL4015_5-1
+Added Component: Designator=Big-MOSFET1(Big-MOSFET-Switch)
+Added Component: Designator=MAIN_SW(2-pin-zielony-prosty)
+Added Component: Designator=OUT-3.3V-K(2-pin-zielony-kat)
+Added Component: Designator=OUT-3.3V-P(2-pin-zielony-prosty)
+Added Component: Designator=OUT-5V-1-K(2-pin-zielony-kat)
+Added Component: Designator=OUT-5V-1-P(2-pin-zielony-prosty)
+Added Component: Designator=OUT-5V-2-K(2-pin-zielony-kat)
+Added Component: Designator=OUT-5V-2-P(2-pin-zielony-prosty)
+Added Component: Designator=OUT-7V-K(2-pin-zielony-kat)
+Added Component: Designator=OUT-7V-P(2-pin-zielony-prosty)
+Added Component: Designator=Small-MOSFET1(Small-MOSFET-Switch)
+Added Component: Designator=Small-MOSFET2(Small-MOSFET-Switch)
+Added Component: Designator=Small-MOSFET3(Small-MOSFET-Switch)
+Added Pin To Net: NetName=NetC3_1 Pin=Big-MOSFET1-1
+Added Pin To Net: NetName=NetC3_1 Pin=Big-MOSFET1-1
+Added Pin To Net: NetName=NetC3_1 Pin=Big-MOSFET1-1
+Added Pin To Net: NetName=GND Pin=Big-MOSFET1-3
+Added Pin To Net: NetName=GND Pin=Big-MOSFET1-3
+Added Pin To Net: NetName=GND Pin=Big-MOSFET1-3
+Added Pin To Net: NetName=GND Pin=Big-MOSFET1-3
+Added Pin To Net: NetName=GND Pin=Big-MOSFET1-3
+Added Pin To Net: NetName=GND Pin=Big-MOSFET1-3
+Added Pin To Net: NetName=GND Pin=Big-MOSFET1-3
+Added Pin To Net: NetName=GND Pin=Big-MOSFET1-3
+Added Pin To Net: NetName=NetBig-MOSFET-Switch_2 Pin=F5-1
+Added Pin To Net: NetName=GND Pin=OUT-3.3V-K-2
+Added Pin To Net: NetName=GND Pin=OUT-3.3V-P-2
+Added Pin To Net: NetName=GND Pin=OUT-5V-1-K-2
+Added Pin To Net: NetName=GND Pin=OUT-5V-1-P-2
+Added Pin To Net: NetName=GND Pin=OUT-5V-2-K-2
+Added Pin To Net: NetName=GND Pin=OUT-5V-2-P-2
+Added Pin To Net: NetName=GND Pin=OUT-7V-K-2
+Added Pin To Net: NetName=GND Pin=OUT-7V-P-2
+Added Pin To Net: NetName=NetC1_1 Pin=Small-MOSFET1-1
+Added Pin To Net: NetName=NetC1_1 Pin=Small-MOSFET1-1
+Added Pin To Net: NetName=NetC1_1 Pin=Small-MOSFET1-1
+Added Pin To Net: NetName=GND Pin=Small-MOSFET1-3
+Added Pin To Net: NetName=GND Pin=Small-MOSFET1-3
+Added Pin To Net: NetName=GND Pin=Small-MOSFET1-3
+Added Pin To Net: NetName=GND Pin=Small-MOSFET1-3
+Added Pin To Net: NetName=GND Pin=Small-MOSFET2-3
+Added Pin To Net: NetName=GND Pin=Small-MOSFET2-3
+Added Pin To Net: NetName=GND Pin=Small-MOSFET2-3
+Added Pin To Net: NetName=GND Pin=Small-MOSFET2-3
+Added Pin To Net: NetName=NetC2_1 Pin=Small-MOSFET3-1
+Added Pin To Net: NetName=NetC2_1 Pin=Small-MOSFET3-1
+Added Pin To Net: NetName=NetC2_1 Pin=Small-MOSFET3-1
+Added Pin To Net: NetName=GND Pin=Small-MOSFET3-3
+Added Pin To Net: NetName=GND Pin=Small-MOSFET3-3
+Added Pin To Net: NetName=GND Pin=Small-MOSFET3-3
+Added Pin To Net: NetName=GND Pin=Small-MOSFET3-3
+Change Net Name : Old Net Name=NetBig-MOSFET-Switch_1 New Net Name=NetBig-MOSFET0_1
+Change Net Name : Old Net Name=NetBig-MOSFET-Switch_2 New Net Name=NetBig-MOSFET0_2
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetC3_1
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetBig-MOSFET1_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=MAIN_SW-1
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=NetBig-MOSFET1_2 Pin=Big-MOSFET1-2
+Added Pin To Net: NetName=NetBig-MOSFET1_2 Pin=Big-MOSFET1-2
+Added Pin To Net: NetName=NetBig-MOSFET1_2 Pin=Big-MOSFET1-2
+Added Pin To Net: NetName=NetBig-MOSFET1_2 Pin=OUT-7V-K-1
+Added Pin To Net: NetName=NetBig-MOSFET1_2 Pin=OUT-7V-P-1
+Added Net: Name=NetBig-MOSFET1_2
+Added Pin To Net: NetName=NetBig-MOSFET1_4 Pin=Big-MOSFET1-4
+Added Net: Name=NetBig-MOSFET1_4
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=Small-MOSFET2-1
+Added Pin To Net: NetName=NetC2_1 Pin=Small-MOSFET2-1
+Added Pin To Net: NetName=NetC2_1 Pin=Small-MOSFET2-1
+Added Pin To Net: NetName=NetC2_1 Pin=TVS2-4
+Added Pin To Net: NetName=NetC2_1 Pin=XL4015_3-2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetMAIN_SW_2 Pin=MAIN_SW-2
+Added Pin To Net: NetName=NetMAIN_SW_2 Pin=R1-2
+Added Pin To Net: NetName=NetMAIN_SW_2 Pin=R3-2
+Added Net: Name=NetMAIN_SW_2
+Added Pin To Net: NetName=NetOUT-3.3V-K_1 Pin=OUT-3.3V-K-1
+Added Pin To Net: NetName=NetOUT-3.3V-K_1 Pin=OUT-3.3V-P-1
+Added Pin To Net: NetName=NetOUT-3.3V-K_1 Pin=Small-MOSFET2-2
+Added Pin To Net: NetName=NetOUT-3.3V-K_1 Pin=Small-MOSFET2-2
+Added Net: Name=NetOUT-3.3V-K_1
+Added Pin To Net: NetName=NetOUT-5V-1-K_1 Pin=OUT-5V-1-K-1
+Added Pin To Net: NetName=NetOUT-5V-1-K_1 Pin=OUT-5V-1-P-1
+Added Pin To Net: NetName=NetOUT-5V-1-K_1 Pin=Small-MOSFET3-2
+Added Pin To Net: NetName=NetOUT-5V-1-K_1 Pin=Small-MOSFET3-2
+Added Net: Name=NetOUT-5V-1-K_1
+Added Pin To Net: NetName=NetOUT-5V-2-K_1 Pin=OUT-5V-2-K-1
+Added Pin To Net: NetName=NetOUT-5V-2-K_1 Pin=OUT-5V-2-P-1
+Added Pin To Net: NetName=NetOUT-5V-2-K_1 Pin=Small-MOSFET1-2
+Added Pin To Net: NetName=NetOUT-5V-2-K_1 Pin=Small-MOSFET1-2
+Added Net: Name=NetOUT-5V-2-K_1
+Added Pin To Net: NetName=NetSmall-MOSFET1_4 Pin=Small-MOSFET1-4
+Added Net: Name=NetSmall-MOSFET1_4
+Added Pin To Net: NetName=NetSmall-MOSFET2_4 Pin=Small-MOSFET2-4
+Added Net: Name=NetSmall-MOSFET2_4
+Added Pin To Net: NetName=NetSmall-MOSFET3_4 Pin=Small-MOSFET3-4
+Added Net: Name=NetSmall-MOSFET3_4
+Added Member To Class: ClassName=Supply_sch Member=Component Big-MOSFET1 16A
+Added Member To Class: ClassName=Supply_sch Member=Component C4 1000u
+Added Member To Class: ClassName=Supply_sch Member=Component MAIN_SW 2-pin
+Added Member To Class: ClassName=Supply_sch Member=Component OUT-3.3V-K 2-pin
+Added Member To Class: ClassName=Supply_sch Member=Component OUT-3.3V-P 
+Added Member To Class: ClassName=Supply_sch Member=Component OUT-5V-1-K 2-pin
+Added Member To Class: ClassName=Supply_sch Member=Component OUT-5V-1-P 
+Added Member To Class: ClassName=Supply_sch Member=Component OUT-5V-2-K 2-pin
+Added Member To Class: ClassName=Supply_sch Member=Component OUT-5V-2-P 
+Added Member To Class: ClassName=Supply_sch Member=Component OUT-7V-K 2-pin
+Added Member To Class: ClassName=Supply_sch Member=Component OUT-7V-P 
+Added Member To Class: ClassName=Supply_sch Member=Component Small-MOSFET1 ?A
+Added Member To Class: ClassName=Supply_sch Member=Component Small-MOSFET2 ?A
+Added Member To Class: ClassName=Supply_sch Member=Component Small-MOSFET3 ?A

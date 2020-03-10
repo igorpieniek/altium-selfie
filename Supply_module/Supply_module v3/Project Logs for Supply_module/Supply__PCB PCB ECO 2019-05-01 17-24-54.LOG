@@ -1,0 +1,73 @@
+Change Component Designator: OldDesignator=XL4015_? NewDesignator=XL4015_1
+Added Component: Designator=*(XT30-katowy-in)
+Added Component: Designator=C1(5mm)
+Added Component: Designator=C2(5mm)
+Added Component: Designator=C2(5mm)
+Added Component: Designator=C3(5mm)
+Added Component: Designator=TVS1(TVS DO-214AA)
+Added Component: Designator=TVS2(TVS 3.3V 82401)
+Added Component: Designator=TVS3(TVS DO-214AA)
+Added Component: Designator=TVS4(TVS DO-214AA)
+Added Component: Designator=XL4015_3(PCBComponent_1)
+Added Component: Designator=XL4015_5(PCBComponent_1)
+Added Component: Designator=XL4015_7(PCBComponent_1)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=TVS1-2
+Added Pin To Net: NetName=GND Pin=TVS2-1
+Added Pin To Net: NetName=GND Pin=TVS3-2
+Added Pin To Net: NetName=GND Pin=TVS4-2
+Added Pin To Net: NetName=GND Pin=XL4015_3-1
+Added Pin To Net: NetName=GND Pin=XL4015_3-1
+Added Pin To Net: NetName=GND Pin=XL4015_5-1
+Added Pin To Net: NetName=GND Pin=XL4015_5-1
+Added Pin To Net: NetName=GND Pin=XL4015_7-1
+Added Pin To Net: NetName=GND Pin=XL4015_7-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=Q1-3
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=NetBig-MOSFET-Switch_2 Pin=Big-MOSFET-Switch-2
+Added Pin To Net: NetName=NetBig-MOSFET-Switch_2 Pin=Big-MOSFET-Switch-2
+Added Pin To Net: NetName=NetBig-MOSFET-Switch_2 Pin=Big-MOSFET-Switch-2
+Added Pin To Net: NetName=NetBig-MOSFET-Switch_2 Pin=F1-1
+Added Pin To Net: NetName=NetBig-MOSFET-Switch_2 Pin=F2-1
+Added Pin To Net: NetName=NetBig-MOSFET-Switch_2 Pin=F3-1
+Added Pin To Net: NetName=NetBig-MOSFET-Switch_2 Pin=F4-1
+Added Net: Name=NetBig-MOSFET-Switch_2
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=TVS1-1
+Added Pin To Net: NetName=NetC1_1 Pin=XL4015_1-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=TVS3-1
+Added Pin To Net: NetName=NetC2_1 Pin=XL4015_5-2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=TVS4-1
+Added Pin To Net: NetName=NetC3_1 Pin=XL4015_7-2
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetF2_2 Pin=F2-2
+Added Pin To Net: NetName=NetF2_2 Pin=XL4015_3-0
+Added Net: Name=NetF2_2
+Added Pin To Net: NetName=NetF3_2 Pin=F3-2
+Added Pin To Net: NetName=NetF3_2 Pin=XL4015_5-0
+Added Net: Name=NetF3_2
+Added Pin To Net: NetName=NetF4_2 Pin=F4-2
+Added Pin To Net: NetName=NetF4_2 Pin=XL4015_7-0
+Added Net: Name=NetF4_2
+Added Pin To Net: NetName=VCC Pin=IC1-5
+Added Net: Name=VCC
+Added Member To Class: ClassName=Supply_sch Member=Component * BATTERY0
+Added Member To Class: ClassName=Supply_sch Member=Component C1 1000u
+Added Member To Class: ClassName=Supply_sch Member=Component C2 1000u
+Added Member To Class: ClassName=Supply_sch Member=Component C2 1000u
+Added Member To Class: ClassName=Supply_sch Member=Component C3 1000u
+Added Member To Class: ClassName=Supply_sch Member=Component TVS1 TVS
+Added Member To Class: ClassName=Supply_sch Member=Component TVS2 3.3
+Added Member To Class: ClassName=Supply_sch Member=Component TVS3 TVS
+Added Member To Class: ClassName=Supply_sch Member=Component TVS4 TVS
+Added Member To Class: ClassName=Supply_sch Member=Component XL4015_3 XL4015
+Added Member To Class: ClassName=Supply_sch Member=Component XL4015_5 XL4015
+Added Member To Class: ClassName=Supply_sch Member=Component XL4015_7 XL4015

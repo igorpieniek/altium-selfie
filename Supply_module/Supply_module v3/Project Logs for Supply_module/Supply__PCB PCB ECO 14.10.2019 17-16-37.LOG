@@ -1,0 +1,7 @@
+Added Component: Designator=BATT(CR2032)
+Added Pin To Net: NetName=GND Pin=BATT-2
+Added Pin To Net: NetName=NetBATT_1 Pin=BATT-1
+Added Pin To Net: NetName=NetBATT_1 Pin=C8-1
+Added Pin To Net: NetName=NetBATT_1 Pin=IC2-1
+Added Net: Name=NetBATT_1
+Added Member To Class: ClassName=Supply_sch Member=Component BATT CR2032

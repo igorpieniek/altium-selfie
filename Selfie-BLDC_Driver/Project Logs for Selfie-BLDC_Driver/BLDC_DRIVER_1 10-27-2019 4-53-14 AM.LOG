@@ -1,0 +1,4 @@
+Added Component: Designator=MOTOR_Supply(XT30-katowy-in)
+Added Pin To Net: NetName=GND_MOTOR Pin=MOTOR_Supply-1
+Added Pin To Net: NetName=VCC_MOTOR Pin=MOTOR_Supply-2
+Added Member To Class: ClassName=TEST_SCH Member=Component MOTOR_Supply 2-pin

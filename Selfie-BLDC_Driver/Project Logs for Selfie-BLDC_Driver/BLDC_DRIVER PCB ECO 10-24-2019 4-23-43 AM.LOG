@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetC_FL_U_1 Pin=C_FL_U-1
+Removed Pin From Net: NetName=NetC_FL_W_1 Pin=C_FL_W-1
+Removed Pin From Net: NetName=NetC_FL_W_1 Pin=Front_Left-1
+Removed Pin From Net: NetName=NetC_FL_U_1 Pin=Front_Left-3
+Added Pin To Net: NetName=NetC_FL_W_1 Pin=C_FL_U-1
+Added Pin To Net: NetName=NetC_FL_U_1 Pin=C_FL_W-1
+Added Pin To Net: NetName=NetC_FL_U_1 Pin=Front_Left-1
+Added Pin To Net: NetName=NetC_FL_W_1 Pin=Front_Left-3
+Change Net Name : Old Net Name=NetC_FL_U_1 New Net Name=NetC_FL_W_1
+Change Net Name : Old Net Name=NetC_FL_W_1 New Net Name=NetC_FL_U_1
+Added Member To Class: ClassName=TEST_SCH Member=Component R_TRANSISTOR_Buzzer Res

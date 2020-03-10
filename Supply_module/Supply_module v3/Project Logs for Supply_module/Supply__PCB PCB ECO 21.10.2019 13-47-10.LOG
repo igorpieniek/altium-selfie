@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=STM_OUT NewDesignator=IDC10_2
+Added Pin To Net: NetName=NetBATT_1 Pin=C6-1
+Added Member To Class: ClassName=Supply_sch Member=Component * IDC10 KANDA
+Added Member To Class: ClassName=Supply_sch Member=Component IDC10_2 STM_OUT
+Added Member To Class: ClassName=Supply_sch Member=Component XL4015_5-2 XL4015
+Added Room: Name=Supply_sch

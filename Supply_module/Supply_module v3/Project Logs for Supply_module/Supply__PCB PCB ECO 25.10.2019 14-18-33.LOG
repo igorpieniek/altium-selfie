@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=+15V Pin=MOT_1-1
+Removed Pin From Net: NetName=GND Pin=MOT_1-2
+Removed Pin From Net: NetName=+15V Pin=MOT_2-1
+Removed Pin From Net: NetName=GND Pin=MOT_2-2
+Removed Pin From Net: NetName=+15V Pin=MOT_3-1
+Removed Pin From Net: NetName=GND Pin=MOT_3-2
+Removed Pin From Net: NetName=+15V Pin=MOT_4-1
+Removed Pin From Net: NetName=GND Pin=MOT_4-2
+Removed Member From Class: ClassName=Supply_sch Member=MOT_1
+Removed Member From Class: ClassName=Supply_sch Member=MOT_2
+Removed Member From Class: ClassName=Supply_sch Member=MOT_3
+Removed Member From Class: ClassName=Supply_sch Member=MOT_4
+Change Component Designator: OldDesignator=STM_OUT NewDesignator=IDC10_2
+Added Component: Designator=MOT_OUT(XT30-katowy-in)
+Added Pin To Net: NetName=GND Pin=MOT_OUT-1
+Added Pin To Net: NetName=+15V Pin=MOT_OUT-2
+Added Member To Class: ClassName=Supply_sch Member=Component JP5 jumper
+Added Member To Class: ClassName=Supply_sch Member=Component MOT_OUT 2-pin
+Added Room: Name=Supply_sch

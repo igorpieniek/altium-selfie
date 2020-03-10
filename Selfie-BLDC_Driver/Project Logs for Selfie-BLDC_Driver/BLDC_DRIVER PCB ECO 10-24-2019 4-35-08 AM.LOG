@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetBack_Left_1 Pin=Back_Left-1
+Removed Pin From Net: NetName=NetBack_Left_3 Pin=Back_Left-3
+Removed Pin From Net: NetName=NetBack_Left_3 Pin=C_BL_U-1
+Removed Pin From Net: NetName=NetBack_Left_1 Pin=C_BL_W-1
+Added Pin To Net: NetName=NetBack_Left_3 Pin=Back_Left-1
+Added Pin To Net: NetName=NetBack_Left_1 Pin=Back_Left-3
+Added Pin To Net: NetName=NetBack_Left_1 Pin=C_BL_U-1
+Added Pin To Net: NetName=NetBack_Left_3 Pin=C_BL_W-1
+Change Net Name : Old Net Name=NetBack_Left_1 New Net Name=NetBack_Left_3
+Change Net Name : Old Net Name=NetBack_Left_3 New Net Name=NetBack_Left_1

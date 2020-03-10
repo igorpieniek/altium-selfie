@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetBig-MOSFET0_4 Pin=Big-MOSFET0-4
+Added Pin To Net: NetName=NetBig-MOSFET0_4 Pin=U1-11
+Added Net: Name=NetBig-MOSFET0_4
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR19_1 Pin=U1-6
+Added Net: Name=NetR19_1
+Added Room: Name=Supply_sch

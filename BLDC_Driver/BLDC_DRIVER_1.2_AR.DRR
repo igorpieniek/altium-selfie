@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BLDC_DRIVER_1.2_AR.PcbDoc   10/27/2019  6:17:22 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : BLDC_DRIVER_1.2_AR.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      15mil (0.381mm)                                           Round             359       PTH        79.64inch (2022.94mm)
+T2      28mil (0.711mm)                                           Round             21        PTH        20.36inch (517.02mm)
+T3      32mil (0.8mm)                                             Round             2         PTH        0.30inch (7.60mm)
+T4      32mil (0.813mm)                                           Round             26        PTH        11.64inch (295.54mm)
+T5      35mil (0.9mm)                                             Round             8         PTH        3.91inch (99.31mm)
+T6      41mil (1.05mm)                                            Round             16        PTH        14.15inch (359.47mm)
+T7      47mil (1.2mm)                                             Round             8         PTH        2.20inch (55.84mm)
+T8      51mil (1.3mm)                                             Round             12        PTH        16.14inch (409.89mm)
+T9      79mil (2mm)                                               Round             2         PTH        0.20inch (5.00mm)
+T10     160mil (4.064mm)                                          Round             4         PTH        11.29inch (286.77mm)
+T11     35mil (0.9mm)                                             Round             2         NPTH       0.17inch (4.40mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              460
+
+Total Processing Time (hh:mm:ss) : 00:00:00

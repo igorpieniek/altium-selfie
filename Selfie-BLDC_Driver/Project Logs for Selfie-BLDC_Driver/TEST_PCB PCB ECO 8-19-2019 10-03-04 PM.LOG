@@ -1,0 +1,34 @@
+Removed Member From Class: ClassName=TEST_SCH Member=U?
+Change Component DesignItemId : Designator=MOSFET_? Old DesignItemId=Trans New DesignItemId=IFR1018EPbF
+Change Component Comment : Designator=MOSFET_? Old Comment=Trans New Comment=IFR1018EPbF
+Added Component: Designator=C?(2.5mm)
+Added Component: Designator=C?(5mm)
+Added Component: Designator=C?(5mm)
+Added Component: Designator=MOSFET_?(PCBComponent_1)
+Added Component: Designator=MOSFET_?(PCBComponent_1)
+Added Component: Designator=MOSFET_?(PCBComponent_1)
+Added Component: Designator=MOSFET_?(PCBComponent_1)
+Added Component: Designator=MOSFET_?(PCBComponent_1)
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=MOSFET_?-D
+Added Pin To Net: NetName=NetC?_1 Pin=MOSFET_?-S
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=MOSFET_?-S
+Added Pin To Net: NetName=NetC?_2 Pin=MOSFET_?-S
+Added Pin To Net: NetName=NetC?_2 Pin=MOSFET_?-S
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetMOSFET_?_D Pin=MOSFET_?-D
+Added Pin To Net: NetName=NetMOSFET_?_D Pin=MOSFET_?-D
+Added Pin To Net: NetName=NetMOSFET_?_D Pin=MOSFET_?-D
+Added Net: Name=NetMOSFET_?_D
+Added Member To Class: ClassName=TEST_SCH Member=Component C? Cap_pol
+Added Member To Class: ClassName=TEST_SCH Member=Component C? Cap_pol
+Added Member To Class: ClassName=TEST_SCH Member=Component C? Cap_pol
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF

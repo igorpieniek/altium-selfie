@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=STM_OUT-2
+Removed Pin From Net: NetName=GND Pin=STM_OUT-4
+Removed Pin From Net: NetName=GND Pin=STM_OUT-6
+Added Room: Name=Supply_sch

@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=NetBack_Left_1 Pin=Back_Left-2
+Removed Pin From Net: NetName=NetBack_Left_1 Pin=Back_Left-3
+Removed Pin From Net: NetName=NetBack_Right_1 Pin=Back_Right-2
+Removed Pin From Net: NetName=NetBack_Right_1 Pin=Back_Right-3
+Removed Pin From Net: NetName=NetBack_Left_1 Pin=C_BL_U-1
+Removed Pin From Net: NetName=NetBack_Left_1 Pin=C_BL_V-1
+Removed Pin From Net: NetName=NetBack_Right_1 Pin=C_BR_U-1
+Removed Pin From Net: NetName=NetBack_Right_1 Pin=C_BR_V-1
+Removed Pin From Net: NetName=NetC_FL_U_1 Pin=C_FL_U-1
+Removed Pin From Net: NetName=NetC_FL_U_1 Pin=C_FL_V-1
+Removed Pin From Net: NetName=NetC_FR_U_1 Pin=C_FR_U-1
+Removed Pin From Net: NetName=NetC_FR_U_1 Pin=C_FR_V-1
+Removed Pin From Net: NetName=NetC_FL_U_1 Pin=Front_Left-2
+Removed Pin From Net: NetName=NetC_FL_U_1 Pin=Front_Left-3
+Removed Pin From Net: NetName=NetC_FR_U_1 Pin=Front_Right-2
+Removed Pin From Net: NetName=NetC_FR_U_1 Pin=Front_Right-3
+Added Pin To Net: NetName=NetMOSFET_BL_V_H_S Pin=Back_Left-2
+Added Pin To Net: NetName=NetMOSFET_BL_U_H_S Pin=Back_Left-3
+Added Pin To Net: NetName=NetMOSFET_BR_V_H_S Pin=Back_Right-2
+Added Pin To Net: NetName=NetMOSFET_BR_U_H_S Pin=Back_Right-3
+Added Pin To Net: NetName=NetMOSFET_BL_U_H_S Pin=C_BL_U-1
+Added Pin To Net: NetName=NetMOSFET_BL_V_H_S Pin=C_BL_V-1
+Added Pin To Net: NetName=NetMOSFET_BR_U_H_S Pin=C_BR_U-1
+Added Pin To Net: NetName=NetMOSFET_BR_V_H_S Pin=C_BR_V-1
+Added Pin To Net: NetName=NetMOSFET_FL_U_H_S Pin=C_FL_U-1
+Added Pin To Net: NetName=NetMOSFET_FL_V_H_S Pin=C_FL_V-1
+Added Pin To Net: NetName=NetMOSFET_FR_U_H_S Pin=C_FR_U-1
+Added Pin To Net: NetName=NetMOSFET_FR_V_H_S Pin=C_FR_V-1
+Added Pin To Net: NetName=NetMOSFET_FL_V_H_S Pin=Front_Left-2
+Added Pin To Net: NetName=NetMOSFET_FL_U_H_S Pin=Front_Left-3
+Added Pin To Net: NetName=NetMOSFET_FR_V_H_S Pin=Front_Right-2
+Added Pin To Net: NetName=NetMOSFET_FR_U_H_S Pin=Front_Right-3
+Change Net Name : Old Net Name=NetC_FL_U_1 New Net Name=NetC_FL_W_1
+Change Net Name : Old Net Name=NetC_FR_U_1 New Net Name=NetC_FR_W_1
+Change Net Name : Old Net Name=NetMOSFET_BL_U_H_S New Net Name=NetBack_Left_3
+Change Net Name : Old Net Name=NetMOSFET_BL_V_H_S New Net Name=NetBack_Left_2
+Change Net Name : Old Net Name=NetMOSFET_BR_U_H_S New Net Name=NetBack_Right_3
+Change Net Name : Old Net Name=NetMOSFET_BR_V_H_S New Net Name=NetBack_Right_2
+Change Net Name : Old Net Name=NetMOSFET_FL_U_H_S New Net Name=NetC_FL_U_1
+Change Net Name : Old Net Name=NetMOSFET_FL_V_H_S New Net Name=NetC_FL_V_1
+Change Net Name : Old Net Name=NetMOSFET_FR_U_H_S New Net Name=NetC_FR_U_1
+Change Net Name : Old Net Name=NetMOSFET_FR_V_H_S New Net Name=NetC_FR_V_1

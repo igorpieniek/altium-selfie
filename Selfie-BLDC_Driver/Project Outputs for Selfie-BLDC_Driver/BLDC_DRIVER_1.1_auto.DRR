@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BLDC_DRIVER_1.1_auto.PcbDoc   10/25/2019  11:00:49 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : BLDC_DRIVER_1.1_auto.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      15mil (0.381mm)                                           Round             350       PTH        75.29inch (1912.25mm)
+T2      28mil (0.711mm)                                           Round             15        PTH        19.48inch (494.84mm)
+T3      32mil (0.8mm)                                             Round             2         PTH        0.30inch (7.60mm)
+T4      32mil (0.813mm)                                           Round             24        PTH        9.14inch (232.25mm)
+T5      41mil (1.05mm)                                            Round             12        PTH        13.95inch (354.33mm)
+T6      47mil (1.2mm)                                             Round             8         PTH        2.20inch (55.75mm)
+T7      51mil (1.3mm)                                             Round             12        PTH        16.14inch (409.89mm)
+T8      79mil (2mm)                                               Round             2         PTH        0.20inch (5.00mm)
+T9      160mil (4.064mm)                                          Round             4         PTH        11.37inch (288.82mm)
+T10     35mil (0.9mm)                                             Round             2         NPTH       0.17inch (4.40mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              431
+
+Total Processing Time (hh:mm:ss) : 00:00:00

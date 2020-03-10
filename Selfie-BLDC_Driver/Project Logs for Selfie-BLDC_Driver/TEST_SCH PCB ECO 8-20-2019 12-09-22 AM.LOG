@@ -1,0 +1,33 @@
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=MOSFET_?(TO-263)
+Added Component: Designator=U?(SOIC-16)
+Added Component: Designator=U?(SOIC-16)
+Added Component: Designator=U?(SOIC-16)
+Added Pin To Net: NetName=NetMOSFET_?_D Pin=MOSFET_?-D
+Added Pin To Net: NetName=NetMOSFET_?_D Pin=MOSFET_?-D
+Added Pin To Net: NetName=NetMOSFET_?_D Pin=MOSFET_?-D
+Added Pin To Net: NetName=NetMOSFET_?_D Pin=MOSFET_?-D
+Added Pin To Net: NetName=NetMOSFET_?_D Pin=MOSFET_?-D
+Added Pin To Net: NetName=NetMOSFET_?_D Pin=MOSFET_?-D
+Added Net: Name=NetMOSFET_?_D
+Added Pin To Net: NetName=NetMOSFET_?_G Pin=MOSFET_?-G
+Added Pin To Net: NetName=NetMOSFET_?_G Pin=U?-14
+Added Net: Name=NetMOSFET_?_G
+Added Pin To Net: NetName=NetMOSFET_?_S Pin=MOSFET_?-S
+Added Pin To Net: NetName=NetMOSFET_?_S Pin=MOSFET_?-S
+Added Pin To Net: NetName=NetMOSFET_?_S Pin=MOSFET_?-S
+Added Pin To Net: NetName=NetMOSFET_?_S Pin=MOSFET_?-S
+Added Pin To Net: NetName=NetMOSFET_?_S Pin=MOSFET_?-S
+Added Pin To Net: NetName=NetMOSFET_?_S Pin=MOSFET_?-S
+Added Net: Name=NetMOSFET_?_S
+Added Class: Name=TEST_SCH

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC Pin=IC1-5
+Removed Pin From Net: NetName=VCC Pin=JP0_1-2
+Removed Pin From Net: NetName=VCC Pin=JP0_2-2
+Change Net Name : Old Net Name=VCC New Net Name=NetMAIN_SW_2
+Added Pin To Net: NetName=VCC Pin=IC1-5
+Added Pin To Net: NetName=VCC Pin=JP0_1-2
+Added Pin To Net: NetName=VCC Pin=JP0_2-2
+Added Pin To Net: NetName=VCC Pin=MAIN_SW-1
+Added Net: Name=VCC

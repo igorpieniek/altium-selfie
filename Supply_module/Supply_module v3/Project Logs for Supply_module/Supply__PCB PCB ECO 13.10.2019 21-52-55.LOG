@@ -1,0 +1,70 @@
+Added Component: Designator=R5(0603)
+Added Component: Designator=R6(0603)
+Added Component: Designator=R7(0603)
+Added Component: Designator=R8(0603)
+Added Component: Designator=R9(0603)
+Added Component: Designator=R10(0603)
+Added Component: Designator=R11(0603)
+Added Component: Designator=R12(0603)
+Added Component: Designator=R13(0603)
+Added Component: Designator=R14(0603)
+Added Component: Designator=R15(0603)
+Added Component: Designator=R16(0603)
+Added Component: Designator=R17(0603)
+Added Component: Designator=R18(0603)
+Added Component: Designator=R19(0603)
+Added Component: Designator=R26(0603)
+Added Component: Designator=R27(0603)
+Added Component: Designator=R28(0603)
+Added Component: Designator=R29(0603)
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=R7-1
+Added Pin To Net: NetName=+7V Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR8_2 Pin=R11-1
+Added Pin To Net: NetName=+5V/2 Pin=R11-2
+Added Pin To Net: NetName=NetR9_2 Pin=R12-1
+Added Pin To Net: NetName=+5V/1 Pin=R12-2
+Added Pin To Net: NetName=NetR10_2 Pin=R13-1
+Added Pin To Net: NetName=+3.3V Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=R15-1
+Added Pin To Net: NetName=VCC Pin=R15-2
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R26-2
+Added Pin To Net: NetName=GND Pin=R27-2
+Added Pin To Net: NetName=GND Pin=R28-2
+Added Pin To Net: NetName=GND Pin=R29-2
+Added Member To Class: ClassName=Supply_sch Member=Component R5 690
+Added Member To Class: ClassName=Supply_sch Member=Component R6 2.2k
+Added Member To Class: ClassName=Supply_sch Member=Component R7 3.3k
+Added Member To Class: ClassName=Supply_sch Member=Component R8 4.7k
+Added Member To Class: ClassName=Supply_sch Member=Component R9 4.7k
+Added Member To Class: ClassName=Supply_sch Member=Component R10 22k
+Added Member To Class: ClassName=Supply_sch Member=Component R11 3.3k
+Added Member To Class: ClassName=Supply_sch Member=Component R12 3.3k
+Added Member To Class: ClassName=Supply_sch Member=Component R13 3.3k
+Added Member To Class: ClassName=Supply_sch Member=Component R14 470
+Added Member To Class: ClassName=Supply_sch Member=Component R15 2.2k
+Added Member To Class: ClassName=Supply_sch Member=Component R16 10k
+Added Member To Class: ClassName=Supply_sch Member=Component R17 10k
+Added Member To Class: ClassName=Supply_sch Member=Component R18 10k
+Added Member To Class: ClassName=Supply_sch Member=Component R19 10k
+Added Member To Class: ClassName=Supply_sch Member=Component R26 220
+Added Member To Class: ClassName=Supply_sch Member=Component R27 220
+Added Member To Class: ClassName=Supply_sch Member=Component R28 220
+Added Member To Class: ClassName=Supply_sch Member=Component R29 220

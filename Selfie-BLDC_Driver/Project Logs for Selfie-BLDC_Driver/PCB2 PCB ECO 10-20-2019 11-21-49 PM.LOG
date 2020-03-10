@@ -1,0 +1,56 @@
+Added Component: Designator=Oscilator_?(CSTCC8M00G53-R0)
+Added Component: Designator=R?(R0603)
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=Oscilator_?-2
+Added Pin To Net: NetName=NetOscilator_?_1 Pin=Oscilator_?-1
+Added Pin To Net: NetName=NetOscilator_?_1 Pin=STM32_?-32
+Added Net: Name=NetOscilator_?_1
+Added Pin To Net: NetName=NetOscilator_?_3 Pin=Oscilator_?-3
+Added Pin To Net: NetName=NetOscilator_?_3 Pin=STM32_?-33
+Added Net: Name=NetOscilator_?_3
+Added Member To Class: ClassName=TEST_SCH Member=Component C10n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C? Cap_pol
+Added Member To Class: ClassName=TEST_SCH Member=Component C? Cap_pol
+Added Member To Class: ClassName=TEST_SCH Member=Component C? Cap_pol
+Added Member To Class: ClassName=TEST_SCH Member=Component C? Cap_pol
+Added Member To Class: ClassName=TEST_SCH Member=Component C? Cap_pol
+Added Member To Class: ClassName=TEST_SCH Member=Component C? Cap_pol
+Added Member To Class: ClassName=TEST_SCH Member=Component C? Cap_pol
+Added Member To Class: ClassName=TEST_SCH Member=Component C? Cap_pol
+Added Member To Class: ClassName=TEST_SCH Member=Component C? Cap_pol
+Added Member To Class: ClassName=TEST_SCH Member=Component C? Cap_pol
+Added Member To Class: ClassName=TEST_SCH Member=Component C? Cap_pol
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component MOSFET_? IFR1018EPbF
+Added Member To Class: ClassName=TEST_SCH Member=Component Oscilator_? CSTCC8M00G53-R0
+Added Member To Class: ClassName=TEST_SCH Member=Component R10k Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R22 Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R? Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R? Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R? Res

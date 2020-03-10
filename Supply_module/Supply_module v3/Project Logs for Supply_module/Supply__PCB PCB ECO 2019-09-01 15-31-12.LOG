@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VCC Pin=MAIN_SW-1
+Added Pin To Net: NetName=NetBATTERY0_2 Pin=MAIN_SW-1
+Added Net: Name=NetBATTERY0_2

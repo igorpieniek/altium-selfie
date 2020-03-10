@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=7805T-2
+Removed Pin From Net: NetName=GND Pin=7805T-2
+Removed Pin From Net: NetName=GND Pin=ATmega-4
+Removed Pin From Net: NetName=GND Pin=ATmega-6
+Removed Pin From Net: NetName=GND Pin=ATmega-8
+Removed Pin From Net: NetName=GND Pin=ATmega-10
+Removed Pin From Net: NetName=GND Pin=BATT-2
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=U1-8
+Removed Pin From Net: NetName=GND Pin=U1-22
+Change Component Footprint: Designator=7805T Old Footprint=SOT-223 New Footprint=TO-220
+Change Component Designator: OldDesignator=7805T NewDesignator=IC2
+Change Component Designator: OldDesignator=ATmega NewDesignator=*
+Change Component Designator: OldDesignator=STM_OUT NewDesignator=IDC10_2
+Added Pin To Net: NetName=GND2 Pin=*-4
+Added Pin To Net: NetName=GND2 Pin=*-6
+Added Pin To Net: NetName=GND2 Pin=*-8
+Added Pin To Net: NetName=GND2 Pin=*-10
+Added Pin To Net: NetName=GND2 Pin=BATT-2
+Added Pin To Net: NetName=GND2 Pin=C6-2
+Added Pin To Net: NetName=GND2 Pin=C7-2
+Added Pin To Net: NetName=GND2 Pin=C8-2
+Added Pin To Net: NetName=GND2 Pin=C9-2
+Added Pin To Net: NetName=GND2 Pin=IC2-2
+Added Pin To Net: NetName=GND2 Pin=U1-8
+Added Pin To Net: NetName=GND2 Pin=U1-22
+Added Net: Name=GND2
+Added Room: Name=Supply_sch

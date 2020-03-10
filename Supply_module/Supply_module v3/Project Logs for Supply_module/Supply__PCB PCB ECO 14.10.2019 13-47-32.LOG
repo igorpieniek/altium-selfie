@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=BATTERY0-1
+Removed Pin From Net: NetName=VCC Pin=BATTERY0-1
+Removed Pin From Net: NetName=VCC Pin=LED1-1
+Removed Pin From Net: NetName=VCC Pin=R15-2
+Change Component Designator: OldDesignator=7805T NewDesignator=IC2
+Added Pin To Net: NetName=+15V Pin=LED1-1
+Added Pin To Net: NetName=+15V Pin=R15-2
+Added Net: Name=+15V
+Added Member To Class: ClassName=Supply_sch Member=Component R24 10k
+Added Room: Name=Supply_sch

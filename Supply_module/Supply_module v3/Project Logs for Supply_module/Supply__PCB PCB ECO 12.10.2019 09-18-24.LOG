@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=GND Pin=Big-MOSFET0-3
+Removed Pin From Net: NetName=GND Pin=Big-MOSFET0-3
+Removed Pin From Net: NetName=NetBig-MOSFET0_3 Pin=Big-MOSFET0-3
+Removed Pin From Net: NetName=NetBig-MOSFET0_3 Pin=Big-MOSFET0-3
+Removed Pin From Net: NetName=NetBig-MOSFET0_3 Pin=Big-MOSFET0-3
+Removed Pin From Net: NetName=NetBig-MOSFET0_3 Pin=Big-MOSFET0-3
+Removed Pin From Net: NetName=NetBig-MOSFET0_3 Pin=Big-MOSFET0-3
+Removed Pin From Net: NetName=NetBig-MOSFET0_3 Pin=Big-MOSFET0-3
+Removed Pin From Net: NetName=GND Pin=Big-MOSFET0-6
+Removed Pin From Net: NetName=GND Pin=Big-MOSFET0-7
+Removed Pin From Net: NetName=GND Pin=Big-MOSFET1-6
+Removed Pin From Net: NetName=GND Pin=Big-MOSFET1-7
+Removed Pin From Net: NetName=GND Pin=Big-MOSFET1-7
+Added Component: Designator=C2(5mm)
+Added Component: Designator=MOT_1(2-pin-zielony-prosty)
+Added Component: Designator=MOT_2(2-pin-zielony-prosty)
+Added Component: Designator=MOT_3(2-pin-zielony-prosty)
+Added Component: Designator=MOT_4(2-pin-zielony-prosty)
+Added Component: Designator=MOTOR_SW(2-pin-zielony-prosty)
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=15V Pin=C2-2
+Added Pin To Net: NetName=15V Pin=MOT_1-1
+Added Pin To Net: NetName=GND Pin=MOT_1-2
+Added Pin To Net: NetName=15V Pin=MOT_2-1
+Added Pin To Net: NetName=GND Pin=MOT_2-2
+Added Pin To Net: NetName=15V Pin=MOT_3-1
+Added Pin To Net: NetName=GND Pin=MOT_3-2
+Added Pin To Net: NetName=15V Pin=MOT_4-1
+Added Pin To Net: NetName=GND Pin=MOT_4-2
+Added Pin To Net: NetName=NetBig-MOSFET0_2 Pin=MOTOR_SW-1
+Added Pin To Net: NetName=15V Pin=MOTOR_SW-2
+Added Member To Class: ClassName=Supply_sch Member=Component C2 1000u
+Added Member To Class: ClassName=Supply_sch Member=Component MOT_1 
+Added Member To Class: ClassName=Supply_sch Member=Component MOT_2 
+Added Member To Class: ClassName=Supply_sch Member=Component MOT_3 
+Added Member To Class: ClassName=Supply_sch Member=Component MOT_4 
+Added Member To Class: ClassName=Supply_sch Member=Component MOTOR_SW 2-pin
+Added Room: Name=Supply_sch

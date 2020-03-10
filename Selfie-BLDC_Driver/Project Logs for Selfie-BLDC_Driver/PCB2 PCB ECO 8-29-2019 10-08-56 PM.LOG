@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=R22 Old Footprint=R2512 New Footprint=R0603
+Change Component Footprint: Designator=R22 Old Footprint=R2512 New Footprint=R0603
+Added Component: Designator=C100n(0603)
+Added Component: Designator=C100n(0603)
+Added Component: Designator=C100n(0603)
+Added Component: Designator=C100n(0603)
+Added Component: Designator=C100n(0603)
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=C100n-1
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=C100n-1
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=C100n-1
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=C100n-1
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=C100n-1
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=C100n-2
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=C100n-2
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=C100n-2
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=C100n-2
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=C100n-2
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=J?-5
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component R10k Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R22 Res

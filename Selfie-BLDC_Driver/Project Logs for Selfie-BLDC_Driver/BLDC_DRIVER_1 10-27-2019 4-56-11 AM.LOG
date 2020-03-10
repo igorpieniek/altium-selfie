@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=NetJP4_1 Pin=JP4-1
+Added Pin To Net: NetName=NetJP4_2 Pin=JP4-2
+Added Member To Class: ClassName=TEST_SCH Member=Component JP4 jumper

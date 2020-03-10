@@ -1,0 +1,24 @@
+Added Component: Designator=C2u2(0603)
+Added Component: Designator=C10n(0603)
+Added Component: Designator=C10n(0603)
+Added Component: Designator=C10u(0603)
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=C2u2-1
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=C2u2-2
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=C10n-1
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=C10n-1
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=C10n-2
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=C10n-2
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=C10u-1
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=C10u-2
+Added Member To Class: ClassName=TEST_SCH Member=Component C2u2 Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C10n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C10n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C10u Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component R10k Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R22 Res

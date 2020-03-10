@@ -1,0 +1,63 @@
+Added Component: Designator=7812T(TO-220)
+Added Component: Designator=C11(0603)
+Added Component: Designator=C13(0603)
+Added Component: Designator=Q2(BSS138)
+Added Component: Designator=Q3(BSS138)
+Added Component: Designator=R20(R2512)
+Added Component: Designator=R21(R2512)
+Added Component: Designator=R22(R2512)
+Added Component: Designator=R23(R2512)
+Added Component: Designator=U?(28P3)
+Added Pin To Net: NetName=GND Pin=7812T-2
+Added Pin To Net: NetName=NetBig-MOSFET0_3 Pin=Big-MOSFET0-3
+Added Pin To Net: NetName=NetBig-MOSFET0_3 Pin=Big-MOSFET0-3
+Added Pin To Net: NetName=NetBig-MOSFET0_3 Pin=Big-MOSFET0-3
+Added Pin To Net: NetName=NetBig-MOSFET0_3 Pin=Big-MOSFET0-3
+Added Pin To Net: NetName=NetBig-MOSFET0_3 Pin=Big-MOSFET0-3
+Added Pin To Net: NetName=NetBig-MOSFET0_3 Pin=Big-MOSFET0-3
+Added Pin To Net: NetName=NetBig-MOSFET0_3 Pin=Big-MOSFET0-3
+Added Pin To Net: NetName=NetBig-MOSFET0_3 Pin=Big-MOSFET0-3
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=Net7812T_1 Pin=7812T-1
+Added Pin To Net: NetName=Net7812T_1 Pin=C13-1
+Added Pin To Net: NetName=Net7812T_1 Pin=F5-2
+Added Net: Name=Net7812T_1
+Added Pin To Net: NetName=Net7812T_3 Pin=7812T-3
+Added Pin To Net: NetName=Net7812T_3 Pin=C11-1
+Added Pin To Net: NetName=Net7812T_3 Pin=R20-2
+Added Pin To Net: NetName=Net7812T_3 Pin=R22-2
+Added Net: Name=Net7812T_3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_1 Pin=R21-1
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_2 Pin=R20-1
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_3 Pin=R21-2
+Added Net: Name=NetQ2_3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_1 Pin=R23-1
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_2 Pin=R22-1
+Added Net: Name=NetQ3_2
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_3 Pin=R23-2
+Added Net: Name=NetQ3_3
+Added Net: Name=NetR6_2
+Added Net: Name=NetR8_2
+Added Net: Name=NetR9_2
+Added Net: Name=NetR10_2
+Added Net: Name=NetR14_2
+Added Member To Class: ClassName=Supply_sch Member=Component 7812T
+Added Member To Class: ClassName=Supply_sch Member=Component C11 100n
+Added Member To Class: ClassName=Supply_sch Member=Component C13 100n
+Added Member To Class: ClassName=Supply_sch Member=Component Q2 BSS138
+Added Member To Class: ClassName=Supply_sch Member=Component Q3 BSS138
+Added Member To Class: ClassName=Supply_sch Member=Component R20 20k
+Added Member To Class: ClassName=Supply_sch Member=Component R21 20k
+Added Member To Class: ClassName=Supply_sch Member=Component R22 20k
+Added Member To Class: ClassName=Supply_sch Member=Component R23 20k
+Added Member To Class: ClassName=Supply_sch Member=Component U? ATmega328-PU

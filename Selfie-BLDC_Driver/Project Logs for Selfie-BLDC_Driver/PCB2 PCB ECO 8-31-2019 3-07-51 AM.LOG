@@ -1,0 +1,21 @@
+Added Component: Designator=B(0603)
+Added Component: Designator=G(0603)
+Added Component: Designator=R?(R0603)
+Added Component: Designator=R?(R0603)
+Added Component: Designator=R?(R0603)
+Added Component: Designator=R(0603)
+Added Member To Class: ClassName=TEST_SCH Member=Component B LED
+Added Member To Class: ClassName=TEST_SCH Member=Component C10n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component G LED
+Added Member To Class: ClassName=TEST_SCH Member=Component R10k Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R22 Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R? Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R? Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R? Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R LED

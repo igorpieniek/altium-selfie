@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetBATT_1 Pin=C6-1
+Change Component Designator: OldDesignator=7205T NewDesignator=IC2
+Change Component Designator: OldDesignator=CR2032 NewDesignator=BATT
+Added Room: Name=Supply_sch

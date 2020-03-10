@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=JP01 NewDesignator=JP0_1
+Change Component Designator: OldDesignator=JP02 NewDesignator=JP0_2
+Added Pin To Net: NetName=VCC Pin=BATTERY0-1
+Added Pin To Net: NetName=VCC Pin=BATTERY0-1
+Added Room: Name=Supply_sch

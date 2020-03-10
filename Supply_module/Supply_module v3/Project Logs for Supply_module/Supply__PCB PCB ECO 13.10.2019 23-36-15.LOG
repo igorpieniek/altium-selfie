@@ -1,0 +1,19 @@
+Added Component: Designator=C6(2.5mm)
+Added Component: Designator=C7(2.5mm)
+Added Component: Designator=C10(2.5mm)
+Added Component: Designator=C12(2.5mm)
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=+5V/0 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=+12V Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=Net7812T_1 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=C8-1
+Added Pin To Net: NetName=NetC6_1 Pin=IC2-1
+Added Net: Name=NetC6_1
+Added Member To Class: ClassName=Supply_sch Member=Component C6 220u
+Added Member To Class: ClassName=Supply_sch Member=Component C7 100u
+Added Member To Class: ClassName=Supply_sch Member=Component C10 100u
+Added Member To Class: ClassName=Supply_sch Member=Component C12 220u

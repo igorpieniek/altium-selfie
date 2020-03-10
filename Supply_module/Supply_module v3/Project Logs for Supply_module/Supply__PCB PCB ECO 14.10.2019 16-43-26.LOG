@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=BATTERY0-1
+Added Component: Designator=FAN1(CON4)
+Added Component: Designator=FAN2(CON4)
+Added Pin To Net: NetName=VCC Pin=BATTERY0-1
+Added Pin To Net: NetName=VCC Pin=BATTERY0-1
+Added Pin To Net: NetName=+12V Pin=FAN1-1
+Added Pin To Net: NetName=GND Pin=FAN1-2
+Added Pin To Net: NetName=+12V Pin=FAN2-1
+Added Pin To Net: NetName=GND Pin=FAN2-2
+Added Pin To Net: NetName=NetFAN1_4 Pin=FAN1-4
+Added Pin To Net: NetName=NetFAN1_4 Pin=Q3-3
+Added Pin To Net: NetName=NetFAN1_4 Pin=R22-1
+Added Net: Name=NetFAN1_4
+Added Pin To Net: NetName=NetFAN2_4 Pin=FAN2-4
+Added Pin To Net: NetName=NetFAN2_4 Pin=Q2-3
+Added Pin To Net: NetName=NetFAN2_4 Pin=R20-1
+Added Net: Name=NetFAN2_4
+Added Member To Class: ClassName=Supply_sch Member=Component FAN1 connector4
+Added Member To Class: ClassName=Supply_sch Member=Component FAN2 connector4

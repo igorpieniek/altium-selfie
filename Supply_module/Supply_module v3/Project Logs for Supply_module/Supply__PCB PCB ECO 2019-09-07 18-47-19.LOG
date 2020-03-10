@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=JP01 NewDesignator=JP0_1
+Change Component Designator: OldDesignator=JP02 NewDesignator=JP0_2
+Change Component Designator: OldDesignator=OUT-3.3V NewDesignator=OUT-3.3V-P
+Change Component Designator: OldDesignator=OUT-5V NewDesignator=OUT-5V-1-P
+Change Component Designator: OldDesignator=OUT-5V NewDesignator=OUT-5V-2-P
+Added Member To Class: ClassName=Supply_sch Member=Component OUT-5V-1-P 
+Added Room: Name=Supply_sch

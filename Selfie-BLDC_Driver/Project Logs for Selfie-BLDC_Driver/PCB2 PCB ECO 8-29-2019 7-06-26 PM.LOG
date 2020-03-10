@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=5V_Supply NewDesignator=3.3V_Supply
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Added Component: Designator=5V_Supply(2-pin-zielony-kat)
+Added Member To Class: ClassName=TEST_SCH Member=Component 5V_Supply 2-pin

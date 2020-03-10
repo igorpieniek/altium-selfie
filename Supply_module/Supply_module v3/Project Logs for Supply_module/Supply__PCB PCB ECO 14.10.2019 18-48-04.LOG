@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCC Pin=BATTERY0-1
+Removed Pin From Net: NetName=VCC Pin=BATTERY0-1
+Change Component Comment : Designator=BATTERY0 Old Comment= New Comment=2-pin
+Added Pin To Net: NetName=GND Pin=BATTERY0-1
+Added Pin To Net: NetName=GND Pin=BATTERY0-1

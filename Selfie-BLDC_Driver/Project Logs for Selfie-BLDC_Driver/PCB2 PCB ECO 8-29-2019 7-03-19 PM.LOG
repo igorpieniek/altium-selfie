@@ -1,0 +1,4 @@
+Added Component: Designator=5V_Supply(2-pin-zielony-kat)
+Added Pin To Net: NetName=Net*_14 Pin=5V_Supply-1
+Added Pin To Net: NetName=Net*_6 Pin=5V_Supply-2
+Added Member To Class: ClassName=TEST_SCH Member=Component 5V_Supply 2-pin

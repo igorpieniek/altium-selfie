@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetBig-MOSFET1_4 Pin=IDC10_2-7
+Removed Pin From Net: NetName=NetIDC10_2_3 Pin=Small-MOSFET2-4
+Removed Pin From Net: NetName=NetIDC10_2_5 Pin=Small-MOSFET3-4
+Added Pin To Net: NetName=NetBig-MOSFET1_4 Pin=IDC10_2-1
+Added Pin To Net: NetName=NetIDC10_2_5 Pin=Small-MOSFET2-4
+Added Pin To Net: NetName=NetIDC10_2_3 Pin=Small-MOSFET3-4
+Added Pin To Net: NetName=NetIDC10_2_7 Pin=IDC10_2-7
+Added Pin To Net: NetName=NetIDC10_2_7 Pin=Small-MOSFET1-4
+Added Net: Name=NetIDC10_2_7

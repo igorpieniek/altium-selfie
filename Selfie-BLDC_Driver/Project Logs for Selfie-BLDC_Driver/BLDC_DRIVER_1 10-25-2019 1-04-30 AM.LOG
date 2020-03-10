@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=MOTOR_Supply Old Footprint=2-pin-zielony-kat New Footprint=XT30-katowy-in
+Added Member To Class: ClassName=TEST_SCH Member=Component Schottky_diode_FL_U_H Schottky_diode
+Added Member To Class: ClassName=TEST_SCH Member=Component Schottky_diode_FL_U_L Schottky_diode

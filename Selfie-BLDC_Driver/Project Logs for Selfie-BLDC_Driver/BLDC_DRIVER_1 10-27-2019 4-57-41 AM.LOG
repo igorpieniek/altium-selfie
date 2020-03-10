@@ -1,0 +1,13 @@
+Change Component Library : Designator=JP1 Old Library= New Library=Jumper.IntLib
+Change Component Library : Designator=JP2 Old Library= New Library=Jumper.IntLib
+Change Component Library : Designator=JP3 Old Library= New Library=Jumper.IntLib
+Change Component Library : Designator=JP4 Old Library= New Library=Jumper.IntLib
+Added Pin To Net: NetName=NetJP1_1 Pin=JP1-1
+Added Pin To Net: NetName=NetJP1_2 Pin=JP1-2
+Added Pin To Net: NetName=NetJP2_1 Pin=JP2-1
+Added Pin To Net: NetName=NetJP2_2 Pin=JP2-2
+Added Pin To Net: NetName=NetJP3_1 Pin=JP3-1
+Added Pin To Net: NetName=NetJP3_2 Pin=JP3-2
+Added Member To Class: ClassName=TEST_SCH Member=Component JP1 jumper
+Added Member To Class: ClassName=TEST_SCH Member=Component JP2 jumper
+Added Member To Class: ClassName=TEST_SCH Member=Component JP3 jumper

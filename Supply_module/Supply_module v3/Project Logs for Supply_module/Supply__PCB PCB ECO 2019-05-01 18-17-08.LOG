@@ -1,0 +1,4 @@
+Change Component Comment : Designator=* Old Comment=BATTERY0 New Comment=
+Change Component Designator: OldDesignator=* NewDesignator=BATTERY0
+Change Net Name : Old Net Name=Net*_1 New Net Name=NetBATTERY0_1
+Change Net Name : Old Net Name=Net*_2 New Net Name=NetBATTERY0_2

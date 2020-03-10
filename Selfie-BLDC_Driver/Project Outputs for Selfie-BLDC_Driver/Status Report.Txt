@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Selfie-BLDC_Driver.PrjPcb]
+   Generated File[BLDC_DRIVER_1.1_auto.TXT]
+   Generated File[BLDC_DRIVER_1.1_auto.LDP]
+   Generated File[BLDC_DRIVER_1.1_auto.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:00:49 PM On 10/25/2019

@@ -1,0 +1,129 @@
+Removed Pin From Net: NetName=Net3.3V_Supply_2 Pin=BOOT-3
+Removed Pin From Net: NetName=Net3.3V_Supply_2 Pin=STM32-6
+Removed Pin From Net: NetName=Net3.3V_Supply_1 Pin=STM32-14
+Removed Pin From Net: NetName=Net3.3V_Supply_2 Pin=STM32-15
+Removed Pin From Net: NetName=Net3.3V_Supply_1 Pin=STM32-25
+Removed Pin From Net: NetName=Net3.3V_Supply_2 Pin=STM32-26
+Removed Pin From Net: NetName=Net3.3V_Supply_2 Pin=STM32-39
+Removed Pin From Net: NetName=Net3.3V_Supply_1 Pin=STM32-40
+Removed Pin From Net: NetName=Net3.3V_Supply_2 Pin=STM32-41
+Removed Pin From Net: NetName=Net3.3V_Supply_2 Pin=STM32-42
+Removed Pin From Net: NetName=Net3.3V_Supply_1 Pin=STM32-51
+Removed Pin From Net: NetName=Net3.3V_Supply_2 Pin=STM32-52
+Removed Pin From Net: NetName=Net3.3V_Supply_2 Pin=STM32-59
+Removed Pin From Net: NetName=Net3.3V_Supply_1 Pin=STM32-60
+Removed Pin From Net: NetName=Net3.3V_Supply_1 Pin=STM32-72
+Removed Pin From Net: NetName=Net3.3V_Supply_2 Pin=STM32-73
+Removed Pin From Net: NetName=Net3.3V_Supply_1 Pin=STM32-82
+Removed Pin From Net: NetName=Net3.3V_Supply_2 Pin=STM32-83
+Removed Pin From Net: NetName=Net3.3V_Supply_1 Pin=STM32-93
+Removed Pin From Net: NetName=Net3.3V_Supply_2 Pin=STM32-94
+Removed Pin From Net: NetName=Net3.3V_Supply_2 Pin=STM32-103
+Removed Pin From Net: NetName=Net3.3V_Supply_1 Pin=STM32-114
+Removed Pin From Net: NetName=Net3.3V_Supply_2 Pin=STM32-115
+Removed Pin From Net: NetName=Net3.3V_Supply_2 Pin=STM32-118
+Removed Pin From Net: NetName=Net3.3V_Supply_1 Pin=STM32-122
+Removed Pin From Net: NetName=Net3.3V_Supply_1 Pin=STM32-128
+Removed Pin From Net: NetName=Net3.3V_Supply_1 Pin=STM32-136
+Removed Pin From Net: NetName=Net3.3V_Supply_2 Pin=STM32-137
+Removed Pin From Net: NetName=Net3.3V_Supply_1 Pin=STM32-149
+Removed Pin From Net: NetName=Net3.3V_Supply_2 Pin=STM32-150
+Removed Pin From Net: NetName=Net3.3V_Supply_2 Pin=STM32-158
+Removed Pin From Net: NetName=Net3.3V_Supply_1 Pin=STM32-170
+Removed Pin From Net: NetName=Net3.3V_Supply_2 Pin=STM32-171
+Removed Pin From Net: NetName=Net3.3V_Supply_1 Pin=STM32-184
+Removed Pin From Net: NetName=Net3.3V_Supply_2 Pin=STM32-185
+Removed Pin From Net: NetName=NetBOOT_2 Pin=STM32-197
+Removed Pin From Net: NetName=Net3.3V_Supply_1 Pin=STM32-202
+Removed Pin From Net: NetName=Net3.3V_Supply_2 Pin=STM32-204
+Removed Member From Class: ClassName=TEST_SCH Member=STM32
+Change Component Designator: OldDesignator=C1 NewDesignator=C2u2-ESRmax2
+Added Component: Designator=C100n(0603)
+Added Component: Designator=C100n(0603)
+Added Component: Designator=R10k(R0603)
+Added Component: Designator=R10k(R0603)
+Added Component: Designator=R22(R2512)
+Added Component: Designator=R22(R2512)
+Added Component: Designator=STM32_?(LQFP208)
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=BOOT-4
+Added Pin To Net: NetName=NetBOOT_2 Pin=R10k-1
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=R10k-2
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=R10k-2
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=STM32_?-6
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=STM32_?-14
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=STM32_?-15
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=STM32_?-25
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=STM32_?-26
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=STM32_?-39
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=STM32_?-40
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=STM32_?-41
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=STM32_?-42
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=STM32_?-51
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=STM32_?-52
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=STM32_?-59
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=STM32_?-60
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=STM32_?-72
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=STM32_?-73
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=STM32_?-82
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=STM32_?-83
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=STM32_?-93
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=STM32_?-94
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=STM32_?-103
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=STM32_?-114
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=STM32_?-115
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=STM32_?-118
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=STM32_?-122
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=STM32_?-128
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=STM32_?-136
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=STM32_?-137
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=STM32_?-149
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=STM32_?-150
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=STM32_?-158
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=STM32_?-170
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=STM32_?-171
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=STM32_?-184
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=STM32_?-185
+Added Pin To Net: NetName=NetBOOT_2 Pin=STM32_?-197
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=STM32_?-202
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=STM32_?-204
+Added Pin To Net: NetName=NetBOOT_1 Pin=BOOT-1
+Added Pin To Net: NetName=NetBOOT_1 Pin=C100n-1
+Added Net: Name=NetBOOT_1
+Added Pin To Net: NetName=NetBOOT_3 Pin=BOOT-3
+Added Pin To Net: NetName=NetBOOT_3 Pin=C100n-2
+Added Net: Name=NetBOOT_3
+Added Pin To Net: NetName=NetC2u2-ESRmax2_1 Pin=C2u2-ESRmax2-1
+Added Pin To Net: NetName=NetC2u2-ESRmax2_1 Pin=STM32_?-148
+Added Net: Name=NetC2u2-ESRmax2_1
+Added Pin To Net: NetName=NetC2u2-ESRmax2_2 Pin=C2u2-ESRmax2-2
+Added Pin To Net: NetName=NetC2u2-ESRmax2_2 Pin=STM32_?-92
+Added Net: Name=NetC2u2-ESRmax2_2
+Added Pin To Net: NetName=NetC100n_1 Pin=C100n-1
+Added Pin To Net: NetName=NetC100n_1 Pin=RESET-2
+Added Net: Name=NetC100n_1
+Added Pin To Net: NetName=NetC100n_2 Pin=C100n-2
+Added Pin To Net: NetName=NetC100n_2 Pin=RESET-4
+Added Net: Name=NetC100n_2
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=R22-2
+Added Net: Name=NetJ?_2
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3
+Added Pin To Net: NetName=NetJ?_3 Pin=R22-2
+Added Net: Name=NetJ?_3
+Added Pin To Net: NetName=NetR10k_1 Pin=R10k-1
+Added Pin To Net: NetName=NetR10k_1 Pin=RESET-1
+Added Pin To Net: NetName=NetR10k_1 Pin=STM32_?-34
+Added Net: Name=NetR10k_1
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=NetR22_1 Pin=STM32_?-146
+Added Net: Name=NetR22_1
+Added Pin To Net: NetName=NetSTM32_?_119 Pin=STM32_?-119
+Added Pin To Net: NetName=NetSTM32_?_119 Pin=STM32_?-125
+Added Net: Name=NetSTM32_?_119
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component C100n Cap
+Added Member To Class: ClassName=TEST_SCH Member=Component R10k Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R10k Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R22 Res
+Added Member To Class: ClassName=TEST_SCH Member=Component R22 Res
+Added Member To Class: ClassName=TEST_SCH Member=Component STM32_? STM32F769BGT6-SELFIE

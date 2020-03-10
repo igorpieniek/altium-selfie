@@ -1,0 +1,53 @@
+Added Component: Designator=Big-MOSFET-Switch(Big-MOSFET-Switch)
+Added Component: Designator=F1(fuse)
+Added Component: Designator=F2(fuse)
+Added Component: Designator=F3(fuse)
+Added Component: Designator=F4(fuse)
+Added Component: Designator=F5(fuse)
+Added Component: Designator=IC1(komparator AP331A)
+Added Component: Designator=Q1(IXFH74N20P)
+Added Component: Designator=R1(R2512)
+Added Component: Designator=R2(R2512)
+Added Component: Designator=R3(R2512)
+Added Component: Designator=R4(R2512)
+Added Component: Designator=TVS0(TVS DO-214AA)
+Added Component: Designator=XL4015_?(PCBComponent_1)
+Added Pin To Net: NetName=GND Pin=IC1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=XL4015_?-1
+Added Pin To Net: NetName=GND Pin=XL4015_?-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetBig-MOSFET-Switch_1 Pin=Big-MOSFET-Switch-1
+Added Pin To Net: NetName=NetBig-MOSFET-Switch_1 Pin=Big-MOSFET-Switch-1
+Added Pin To Net: NetName=NetBig-MOSFET-Switch_1 Pin=Big-MOSFET-Switch-1
+Added Pin To Net: NetName=NetBig-MOSFET-Switch_1 Pin=Big-MOSFET-Switch-3
+Added Pin To Net: NetName=NetBig-MOSFET-Switch_1 Pin=Big-MOSFET-Switch-3
+Added Pin To Net: NetName=NetBig-MOSFET-Switch_1 Pin=Big-MOSFET-Switch-3
+Added Pin To Net: NetName=NetBig-MOSFET-Switch_1 Pin=Big-MOSFET-Switch-3
+Added Pin To Net: NetName=NetBig-MOSFET-Switch_1 Pin=Big-MOSFET-Switch-3
+Added Pin To Net: NetName=NetBig-MOSFET-Switch_1 Pin=Big-MOSFET-Switch-3
+Added Pin To Net: NetName=NetBig-MOSFET-Switch_1 Pin=Big-MOSFET-Switch-3
+Added Pin To Net: NetName=NetBig-MOSFET-Switch_1 Pin=Big-MOSFET-Switch-3
+Added Pin To Net: NetName=NetBig-MOSFET-Switch_1 Pin=IC1-1
+Added Pin To Net: NetName=NetBig-MOSFET-Switch_1 Pin=Q1-2
+Added Pin To Net: NetName=NetBig-MOSFET-Switch_1 Pin=R1-1
+Added Pin To Net: NetName=NetBig-MOSFET-Switch_1 Pin=TVS0-1
+Added Pin To Net: NetName=NetBig-MOSFET-Switch_1 Pin=TVS0-2
+Added Net: Name=NetBig-MOSFET-Switch_1
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=NetF1_2 Pin=XL4015_?-0
+Added Net: Name=NetF1_2
+Added Pin To Net: NetName=NetIC1_3 Pin=IC1-3
+Added Pin To Net: NetName=NetIC1_3 Pin=R2-2
+Added Pin To Net: NetName=NetIC1_3 Pin=R3-1
+Added Net: Name=NetIC1_3
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-4
+Added Pin To Net: NetName=NetIC1_4 Pin=Q1-1
+Added Pin To Net: NetName=NetIC1_4 Pin=R4-2
+Added Net: Name=NetIC1_4
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R3-2
+Added Net: Name=NetR1_2
+Added Class: Name=Supply_sch
+Added Room: Name=Supply_sch

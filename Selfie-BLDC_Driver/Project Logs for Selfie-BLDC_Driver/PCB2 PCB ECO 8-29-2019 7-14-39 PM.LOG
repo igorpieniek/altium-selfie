@@ -1,0 +1,41 @@
+Change Component Designator: OldDesignator=U? NewDesignator=TO1
+Added Component: Designator=TO2(SOIC-16)
+Added Component: Designator=TO3(SOIC-16)
+Added Component: Designator=TO4(SOIC-16)
+Added Component: Designator=TO5(SOIC-16)
+Added Component: Designator=TO6(SOIC-16)
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=TO2-1
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=TO2-2
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=TO2-8
+Added Pin To Net: NetName=Net5V_Supply_1 Pin=TO2-9
+Added Pin To Net: NetName=Net5V_Supply_1 Pin=TO2-15
+Added Pin To Net: NetName=Net5V_Supply_2 Pin=TO2-16
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=TO3-1
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=TO3-2
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=TO3-8
+Added Pin To Net: NetName=Net5V_Supply_1 Pin=TO3-9
+Added Pin To Net: NetName=Net5V_Supply_1 Pin=TO3-15
+Added Pin To Net: NetName=Net5V_Supply_2 Pin=TO3-16
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=TO4-1
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=TO4-2
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=TO4-8
+Added Pin To Net: NetName=Net5V_Supply_1 Pin=TO4-9
+Added Pin To Net: NetName=Net5V_Supply_1 Pin=TO4-15
+Added Pin To Net: NetName=Net5V_Supply_2 Pin=TO4-16
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=TO5-1
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=TO5-2
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=TO5-8
+Added Pin To Net: NetName=Net5V_Supply_1 Pin=TO5-9
+Added Pin To Net: NetName=Net5V_Supply_1 Pin=TO5-15
+Added Pin To Net: NetName=Net5V_Supply_2 Pin=TO5-16
+Added Pin To Net: NetName=Net3.3V_Supply_2 Pin=TO6-1
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=TO6-2
+Added Pin To Net: NetName=Net3.3V_Supply_1 Pin=TO6-8
+Added Pin To Net: NetName=Net5V_Supply_1 Pin=TO6-9
+Added Pin To Net: NetName=Net5V_Supply_1 Pin=TO6-15
+Added Pin To Net: NetName=Net5V_Supply_2 Pin=TO6-16
+Added Member To Class: ClassName=TEST_SCH Member=Component TO2 HCPL-090J
+Added Member To Class: ClassName=TEST_SCH Member=Component TO3 HCPL-090J
+Added Member To Class: ClassName=TEST_SCH Member=Component TO4 HCPL-090J
+Added Member To Class: ClassName=TEST_SCH Member=Component TO5 HCPL-090J
+Added Member To Class: ClassName=TEST_SCH Member=Component TO6 HCPL-090J
