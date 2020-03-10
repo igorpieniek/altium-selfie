@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=R?-2
+Removed Member From Class: ClassName=Sheet1 Member=R?
+Change Component Comment : Designator=* Old Comment=FT230XS_ON_BOARD New Comment=FT230XS
+Change Component Designator: OldDesignator=* NewDesignator=U1
+Added Component: Designator=L2(R0603)
+Added Pin To Net: NetName=NetC1_2 Pin=L2-1
+Change Net Name : Old Net Name=Net*_3 New Net Name=NetC3_1
+Change Net Name : Old Net Name=Net*_8 New Net Name=NetR2_1
+Change Net Name : Old Net Name=Net*_9 New Net Name=NetR1_1
+Change Net Name : Old Net Name=Net*_15 New Net Name=NetR3_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=L2-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-12
+Added Net: Name=NetC2_2
+Change Class Name : Old Net Name=Sheet1 New Net Name=Board
+Added Member To Class: ClassName=Board Member=Component L2 1u

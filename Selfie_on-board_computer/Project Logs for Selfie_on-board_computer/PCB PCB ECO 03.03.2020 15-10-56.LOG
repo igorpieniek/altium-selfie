@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC3_1 Pin=*-3
+Removed Pin From Net: NetName=GND Pin=*-5
+Removed Pin From Net: NetName=NetR2_1 Pin=*-8
+Added Component: Designator=*(ESP-WROOM-32)
+Added Component: Designator=U1(SSOP16)
+Added Pin To Net: NetName=NetC3_1 Pin=*-3
+Added Pin To Net: NetName=GND Pin=*-5
+Added Pin To Net: NetName=NetR2_1 Pin=*-8
+Added Member To Class: ClassName=Board Member=Component * STM32F769BGT6-RAW_1
+Added Member To Class: ClassName=Board Member=Component * SERVO_OUT

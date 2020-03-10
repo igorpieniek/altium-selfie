@@ -1,0 +1,18 @@
+Change Component DesignItemId : Designator=* Old DesignItemId=ESP-WROOM-32 New DesignItemId=SPI
+Change Component DesignItemId : Designator=* Old DesignItemId=SPI New DesignItemId=FT230XS_ON_BOARD
+Change Component Footprint: Designator=* Old Footprint=ESP-WROOM-32 New Footprint=JST SR SH 1.0
+Change Component Footprint: Designator=* Old Footprint=JST SR SH 1.0 New Footprint=SSOP16
+Change Component Comment : Designator=* Old Comment=ESP-WROOM-32 New Comment=SERVO_OUT
+Change Component Comment : Designator=* Old Comment=SERVO_OUT New Comment=FT230XS
+Change Component Designator: OldDesignator=* NewDesignator=U1
+Added Component: Designator=*(ESP-WROOM-32)
+Added Component: Designator=STM32_?(LQFP208)
+Added Pin To Net: NetName=NetR1_1 Pin=U1-9
+Added Pin To Net: NetName=NetC3_1 Pin=U1-10
+Added Pin To Net: NetName=NetC3_1 Pin=U1-11
+Added Pin To Net: NetName=NetC2_2 Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=NetR3_1 Pin=U1-15
+Added Member To Class: ClassName=Board Member=Component * SERVO_OUT
+Added Member To Class: ClassName=Board Member=Component STM32_? STM32F769BGT6-SELFIE
+Added Member To Class: ClassName=Board Member=Component U1 FT230XS
