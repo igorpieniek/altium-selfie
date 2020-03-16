@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=T-1
+Added Net: Name=NetR1_2
+Added Room: Name=Top_Led

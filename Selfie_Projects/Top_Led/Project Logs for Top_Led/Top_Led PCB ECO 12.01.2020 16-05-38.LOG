@@ -1,0 +1,8 @@
+Added Component: Designator=LED(5mm THT)
+Added Pin To Net: NetName=NetLED_1 Pin=LED-1
+Added Pin To Net: NetName=NetLED_1 Pin=T-2
+Added Net: Name=NetLED_1
+Added Pin To Net: NetName=NetLED_2 Pin=LED-2
+Added Pin To Net: NetName=NetLED_2 Pin=R2-2
+Added Net: Name=NetLED_2
+Added Member To Class: ClassName=Top_Led Member=Component LED

@@ -1,0 +1,38 @@
+Removed Member From Class: ClassName=Top_Led Member=*
+Removed Member From Class: ClassName=Top_Led Member=LED
+Removed Member From Class: ClassName=Top_Led Member=T
+Change Component DesignItemId : Designator=R1 Old DesignItemId=Resistor New DesignItemId=Res
+Change Component DesignItemId : Designator=R2 Old DesignItemId=Resistor New DesignItemId=Res
+Change Component Library : Designator=R1 Old Library=RLC.IntLib New Library=RLC_LIB.IntLib
+Change Component Library : Designator=R2 Old Library=RLC.IntLib New Library=RLC_LIB.IntLib
+Added Component: Designator=Connector(JST SR SH 1.0)
+Added Component: Designator=LED1(5mm THT)
+Added Component: Designator=MOSFET_1(SOT23)
+Added Component: Designator=R3(R0603)
+Added Pin To Net: NetName=NetConnector_1 Pin=Connector-1
+Added Pin To Net: NetName=NetConnector_1 Pin=Connector-2
+Added Pin To Net: NetName=NetConnector_1 Pin=LED1-1
+Added Net: Name=NetConnector_1
+Added Pin To Net: NetName=NetConnector_3 Pin=Connector-3
+Added Pin To Net: NetName=NetConnector_3 Pin=Connector-4
+Added Pin To Net: NetName=NetConnector_3 Pin=R1-1
+Added Net: Name=NetConnector_3
+Added Pin To Net: NetName=NetConnector_5 Pin=Connector-5
+Added Pin To Net: NetName=NetConnector_5 Pin=Connector-6
+Added Pin To Net: NetName=NetConnector_5 Pin=MOSFET_1-2
+Added Pin To Net: NetName=NetConnector_5 Pin=R3-2
+Added Net: Name=NetConnector_5
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R2-1
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetMOSFET_1_1 Pin=MOSFET_1-1
+Added Pin To Net: NetName=NetMOSFET_1_1 Pin=R1-2
+Added Pin To Net: NetName=NetMOSFET_1_1 Pin=R3-1
+Added Net: Name=NetMOSFET_1_1
+Added Pin To Net: NetName=NetMOSFET_1_3 Pin=MOSFET_1-3
+Added Pin To Net: NetName=NetMOSFET_1_3 Pin=R2-2
+Added Net: Name=NetMOSFET_1_3
+Added Member To Class: ClassName=Top_Led Member=Component Connector BUTTONS
+Added Member To Class: ClassName=Top_Led Member=Component LED1 LED
+Added Member To Class: ClassName=Top_Led Member=Component MOSFET_1 N-MOSFET
+Added Member To Class: ClassName=Top_Led Member=Component R3 50

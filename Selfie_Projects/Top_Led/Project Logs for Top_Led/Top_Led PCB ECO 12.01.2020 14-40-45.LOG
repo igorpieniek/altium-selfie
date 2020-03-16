@@ -1,0 +1,16 @@
+Added Component: Designator=*(6PIN_280379-1)
+Added Component: Designator=LED1(Raster_2.54_2pin)
+Added Component: Designator=T(SOT23)
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-2
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=*-4
+Added Net: Name=Net*_3
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Pin To Net: NetName=Net*_5 Pin=*-6
+Added Net: Name=Net*_5
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Net: Name=NetLED1_1
+Added Class: Name=Top_Led
+Added Room: Name=Top_Led
