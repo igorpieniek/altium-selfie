@@ -1,0 +1,110 @@
+Removed Pin From Net: NetName=+3.3V Pin=Q3-1
+Removed Pin From Net: NetName=NetQ5_2 Pin=Q3-2
+Removed Pin From Net: NetName=NetFUN2_4 Pin=Q3-3
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=NetR38_1 Pin=R8-2
+Removed Pin From Net: NetName=GND Pin=R9-1
+Removed Pin From Net: NetName=NetR36_1 Pin=R9-2
+Removed Pin From Net: NetName=GND Pin=R10-1
+Removed Pin From Net: NetName=NetR34_1 Pin=R10-2
+Removed Pin From Net: NetName=NetLED5_2 Pin=R26-1
+Removed Pin From Net: NetName=GND Pin=R26-2
+Removed Pin From Net: NetName=NetLED4_2 Pin=R27-1
+Removed Pin From Net: NetName=GND Pin=R27-2
+Removed Pin From Net: NetName=NetLED3_2 Pin=R28-1
+Removed Pin From Net: NetName=GND Pin=R28-2
+Removed Pin From Net: NetName=NetLED2_2 Pin=R29-1
+Removed Pin From Net: NetName=GND Pin=R29-2
+Removed Pin From Net: NetName=GND Pin=R45-1
+Removed Pin From Net: NetName=NetR53_1 Pin=R45-2
+Removed Pin From Net: NetName=NetLIPO BALANCE_4 Pin=R49-2
+Removed Pin From Net: NetName=GND Pin=R50-1
+Removed Pin From Net: NetName=NetR49_1 Pin=R50-2
+Removed Pin From Net: NetName=GND Pin=R52-1
+Removed Pin From Net: NetName=NetR51_1 Pin=R52-2
+Removed Pin From Net: NetName=NetR47_2 Pin=T8-1
+Removed Pin From Net: NetName=NetR55_1 Pin=T10-2
+Removed Pin From Net: NetName=NetR49_1 Pin=U1-14
+Removed Pin From Net: NetName=NetR51_1 Pin=U1-15
+Removed Pin From Net: NetName=NetR53_1 Pin=U1-16
+Removed Pin From Net: NetName=NetR47_1 Pin=U1-38
+Change Component Comment : Designator=R49 Old Comment=4.7k New Comment=10k
+Change Component Comment : Designator=R50 Old Comment=22k New Comment=220
+Change Component Comment : Designator=R52 Old Comment=22k New Comment=220
+Added Component: Designator=Q5(SOT23)
+Added Component: Designator=R35(R0603)
+Added Component: Designator=R37(R0603)
+Added Component: Designator=R39(R0603)
+Added Component: Designator=R53(R0603)
+Added Component: Designator=R54(R0603)
+Added Component: Designator=R56(R0603)
+Added Component: Designator=R58(R0603)
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetF1_2 Pin=Q3-2
+Added Pin To Net: NetName=NetCOM1_3 Pin=Q3-3
+Added Pin To Net: NetName=+3.3V Pin=Q3-1
+Added Pin To Net: NetName=NetQ5_2 Pin=Q3-2
+Added Pin To Net: NetName=NetFUN2_4 Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_1 Pin=R8-1
+Added Pin To Net: NetName=NetCOM1_3 Pin=R8-2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_1 Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=NetR34_1 Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=NetR36_1 Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=NetR38_1 Pin=R8-2
+Added Pin To Net: NetName=NetR45_1 Pin=R45-1
+Added Pin To Net: NetName=NetR45_2 Pin=R45-2
+Added Pin To Net: NetName=NetLED4_2 Pin=R50-1
+Added Pin To Net: NetName=GND Pin=R50-2
+Added Pin To Net: NetName=NetLED5_2 Pin=R52-1
+Added Pin To Net: NetName=GND Pin=R52-2
+Added Pin To Net: NetName=NetR53_1 Pin=R49-1
+Added Pin To Net: NetName=NetLIPO BALANCE_4 Pin=R49-2
+Added Pin To Net: NetName=GND Pin=R50-1
+Added Pin To Net: NetName=NetR53_1 Pin=R50-2
+Added Pin To Net: NetName=GND Pin=R52-1
+Added Pin To Net: NetName=NetR55_1 Pin=R52-2
+Added Pin To Net: NetName=GND Pin=R45-1
+Added Pin To Net: NetName=NetR47_2 Pin=T7-1
+Added Pin To Net: NetName=NetR53_1 Pin=U1-14
+Added Pin To Net: NetName=NetR55_1 Pin=U1-15
+Added Pin To Net: NetName=GND Pin=U1-28
+Added Pin To Net: NetName=NetR51_1 Pin=U1-37
+Added Pin To Net: NetName=NetR49_1 Pin=U1-38
+Added Pin To Net: NetName=NetR47_1 Pin=U1-39
+Added Pin To Net: NetName=NetR49_2 Pin=R49-2
+Added Pin To Net: NetName=NetR49_2 Pin=T8-1
+Added Net: Name=NetR49_2
+Added Pin To Net: NetName=NetR51_2 Pin=T9-1
+Added Net: Name=NetR51_2
+Added Pin To Net: NetName=NetR57_1 Pin=R45-2
+Added Pin To Net: NetName=NetR57_1 Pin=U1-16
+Added Net: Name=NetR57_1
+Added Pin To Net: NetName=NetR59_1 Pin=T10-2
+Added Net: Name=NetR59_1
+Added Pin To Net: NetName=NetR60_1 Pin=U1-52
+Added Net: Name=NetR60_1
+Added Pin To Net: NetName=NetR60_2 Pin=T10-1
+Added Net: Name=NetR60_2
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component Q2 IXFH74N20P
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component Q5 BSS138
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R2 2k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R3 10k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R20 1k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R21 1k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R22 1k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R23 1k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R30 1k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R35 22k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R37 4.7k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R39 4.7k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R53 4.7k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R54 22k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R56 22k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R58 22k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component SW1 3-way switch

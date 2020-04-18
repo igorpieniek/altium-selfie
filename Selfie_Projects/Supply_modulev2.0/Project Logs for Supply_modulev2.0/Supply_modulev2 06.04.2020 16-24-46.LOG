@@ -1,0 +1,6 @@
+Change Component Comment : Designator=SW7 Old Comment=single state switch New Comment=Boot
+Change Component Comment : Designator=SW8 Old Comment=single state switch New Comment=RST
+Change Component Designator: OldDesignator=MAIN NewDesignator=SW1
+Change Component Designator: OldDesignator=OLED NewDesignator=*
+Added Pin To Net: NetName=NetQ6_2 Pin=U1-28
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R3 10k

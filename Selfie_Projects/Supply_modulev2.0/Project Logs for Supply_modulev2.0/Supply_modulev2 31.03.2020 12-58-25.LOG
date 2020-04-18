@@ -1,0 +1,38 @@
+Added Component: Designator=LED6(1206)
+Added Component: Designator=LED7(1206)
+Added Component: Designator=LED8(1206)
+Added Component: Designator=LED9(1206)
+Added Component: Designator=R61(R0603)
+Added Component: Designator=R62(R0603)
+Added Component: Designator=R63(R0603)
+Added Component: Designator=R64(R0603)
+Added Pin To Net: NetName=+5V/2 Pin=LED6-1
+Added Pin To Net: NetName=+3.3V Pin=LED7-1
+Added Pin To Net: NetName=+5V/1 Pin=LED8-1
+Added Pin To Net: NetName=+7V Pin=LED9-1
+Added Pin To Net: NetName=GND Pin=R61-1
+Added Pin To Net: NetName=GND Pin=R62-1
+Added Pin To Net: NetName=GND Pin=R63-1
+Added Pin To Net: NetName=GND Pin=R64-1
+Added Pin To Net: NetName=NetQ6_2 Pin=U1-28
+Added Pin To Net: NetName=NetLED6_2 Pin=LED6-2
+Added Pin To Net: NetName=NetLED6_2 Pin=R61-2
+Added Net: Name=NetLED6_2
+Added Pin To Net: NetName=NetLED7_2 Pin=LED7-2
+Added Pin To Net: NetName=NetLED7_2 Pin=R62-2
+Added Net: Name=NetLED7_2
+Added Pin To Net: NetName=NetLED8_2 Pin=LED8-2
+Added Pin To Net: NetName=NetLED8_2 Pin=R63-2
+Added Net: Name=NetLED8_2
+Added Pin To Net: NetName=NetLED9_2 Pin=LED9-2
+Added Pin To Net: NetName=NetLED9_2 Pin=R64-2
+Added Net: Name=NetLED9_2
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component LED6 LED
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component LED7 LED
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component LED8 LED
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component LED9 LED
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component Q11 P-MOSFET
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R61 Res
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R62 Res
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R63 Res
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R64 Res

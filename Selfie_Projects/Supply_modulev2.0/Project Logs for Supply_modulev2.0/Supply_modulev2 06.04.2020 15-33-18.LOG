@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC4_1 Pin=TVS1-1
+Removed Pin From Net: NetName=NetC3_1 Pin=TVS2-4
+Removed Pin From Net: NetName=NetC1_1 Pin=TVS3-1
+Removed Pin From Net: NetName=NetC5_1 Pin=TVS4-1
+Added Pin To Net: NetName=+5V/2 Pin=TVS1-1
+Added Pin To Net: NetName=+3.3V Pin=TVS2-4
+Added Pin To Net: NetName=+5V/1 Pin=TVS3-1
+Added Pin To Net: NetName=+7V Pin=TVS4-1
+Added Pin To Net: NetName=NetQ6_2 Pin=U1-28
