@@ -1,0 +1,17 @@
+Added Component: Designator=OUT-3.3V-K(2-pin-zielony-prosty)
+Added Component: Designator=OUT-5V-1-K(2-pin-zielony-prosty)
+Added Component: Designator=OUT-5V-2-K(2-pin-zielony-prosty)
+Added Component: Designator=OUT-7V-K(2-pin-zielony-prosty)
+Added Pin To Net: NetName=+3.3V Pin=OUT-3.3V-K-1
+Added Pin To Net: NetName=GND Pin=OUT-3.3V-K-2
+Added Pin To Net: NetName=+5V/1 Pin=OUT-5V-1-K-1
+Added Pin To Net: NetName=GND Pin=OUT-5V-1-K-2
+Added Pin To Net: NetName=+5V/2 Pin=OUT-5V-2-K-1
+Added Pin To Net: NetName=GND Pin=OUT-5V-2-K-2
+Added Pin To Net: NetName=+7V Pin=OUT-7V-K-1
+Added Pin To Net: NetName=GND Pin=OUT-7V-K-2
+Added Pin To Net: NetName=GND Pin=U1-28
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component OUT-3.3V-K 2-pin
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component OUT-5V-1-K 2-pin
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component OUT-5V-2-K 2-pin
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component OUT-7V-K 2-pin

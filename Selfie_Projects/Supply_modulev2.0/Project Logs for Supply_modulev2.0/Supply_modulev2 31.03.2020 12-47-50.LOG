@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetQ11_1 Pin=Q11-1
+Removed Pin From Net: NetName=+7V Pin=Q11-2
+Removed Pin From Net: NetName=+7V Pin=Q11-2
+Removed Pin From Net: NetName=+7V Pin=Q11-2
+Removed Pin From Net: NetName=+7V Pin=Q11-2
+Removed Pin From Net: NetName=NetC5_1 Pin=Q11-3
+Removed Pin From Net: NetName=NetC5_1 Pin=Q11-3
+Removed Pin From Net: NetName=NetC5_1 Pin=Q11-3
+Removed Member From Class: ClassName=Supply_modulev2.0 Member=Q11
+Added Pin To Net: NetName=NetQ6_2 Pin=U1-28
+Change Net Name : Old Net Name=NetQ11_1 New Net Name=NetR28_1

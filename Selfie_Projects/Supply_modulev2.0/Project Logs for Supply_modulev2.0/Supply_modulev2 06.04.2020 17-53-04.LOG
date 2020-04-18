@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetC9_1 Pin=C1-1
+Change Component Designator: OldDesignator=BOOT NewDesignator=SW7
+Change Component Designator: OldDesignator=OLED NewDesignator=*
+Change Component Designator: OldDesignator=RST NewDesignator=SW8
+Change Component Designator: OldDesignator=SBL NewDesignator=Servo_back_L
+Change Component Designator: OldDesignator=SBR NewDesignator=Servo_back_R
+Change Component Designator: OldDesignator=SFL NewDesignator=Servo_front_L
+Change Component Designator: OldDesignator=SFR NewDesignator=Servo_front_R
+Added Component: Designator=C9(5mm)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetC9_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetC3_1 Pin=IC1-1
+Added Pin To Net: NetName=VCC Pin=IC3-1
+Added Pin To Net: NetName=NetQ6_2 Pin=U1-28
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component C9 1000u
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component C11 100n
