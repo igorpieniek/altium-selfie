@@ -192,7 +192,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MEWQBKCY
 
 [Document10]
-DocumentPath=KANDA.SchLib
+DocumentPath=IDC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -209,7 +209,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VMOPRRKM
 
 [Document11]
-DocumentPath=KANDA.PcbLib
+DocumentPath=IDC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
