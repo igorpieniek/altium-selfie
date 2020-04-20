@@ -1,7 +1,0 @@
-Added Component: Designator=Q11(TO252 (DPAK))
-Added Pin To Net: NetName=NetR28_1 Pin=Q11-1
-Added Pin To Net: NetName=+7V Pin=Q11-2
-Added Pin To Net: NetName=NetC5_1 Pin=Q11-3
-Added Pin To Net: NetName=GND Pin=U1-28
-Change Net Name : Old Net Name=NetR28_1 New Net Name=NetQ11_1
-Added Member To Class: ClassName=Supply_modulev2.0 Member=Component Q11 P-MOSFET

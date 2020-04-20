@@ -1,5 +1,0 @@
-Change Component Designator: OldDesignator=Servo_back NewDesignator=Servo_back_R
-Change Component Designator: OldDesignator=Servo_front NewDesignator=Servo_front_L
-Added Pin To Net: NetName=NetQ4_2 Pin=U1-28
-Change Net Name : Old Net Name=NetServo_back_3 New Net Name=NetServo_back_R_3
-Change Net Name : Old Net Name=NetServo_front_3 New Net Name=NetServo_front_L_3
