@@ -1,0 +1,154 @@
+Removed Pin From Net: NetName=+3.3V Pin=Q3-1
+Removed Pin From Net: NetName=NetFUN2_4 Pin=Q3-3
+Removed Pin From Net: NetName=+3.3V Pin=Q*-2
+Removed Pin From Net: NetName=+5V/1 Pin=Q*-2
+Removed Pin From Net: NetName=+7V Pin=Q*-2
+Removed Pin From Net: NetName=NetF1_2 Pin=Q*-2
+Removed Pin From Net: NetName=NetC1_1 Pin=Q*-3
+Removed Pin From Net: NetName=NetC3_1 Pin=Q*-3
+Removed Pin From Net: NetName=NetC5_1 Pin=Q*-3
+Removed Pin From Net: NetName=NetCOM1_3 Pin=Q*-3
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=NetR38_1 Pin=R8-2
+Removed Pin From Net: NetName=NetR36_1 Pin=R9-2
+Removed Pin From Net: NetName=NetR34_1 Pin=R10-2
+Removed Pin From Net: NetName=NetR26_1 Pin=R26-1
+Removed Pin From Net: NetName=NetR26_2 Pin=R26-2
+Removed Pin From Net: NetName=NetR26_1 Pin=R27-1
+Removed Pin From Net: NetName=NetC5_1 Pin=R28-2
+Removed Pin From Net: NetName=NetR29_1 Pin=R29-1
+Removed Pin From Net: NetName=NetR29_2 Pin=R29-2
+Removed Pin From Net: NetName=NetR53_1 Pin=R45-2
+Removed Member From Class: ClassName=Supply_modulev2.0 Member=Q*
+Change Component DesignItemId : Designator=Q3 Old DesignItemId=N-MOSFET New DesignItemId=P-MOSFET
+Change Component Footprint: Designator=Q3 Old Footprint=SOT23 New Footprint=TO252 (DPAK)
+Change Component Comment : Designator=R26 Old Comment=1k New Comment=220
+Change Component Comment : Designator=R27 Old Comment=1k New Comment=220
+Change Component Comment : Designator=R28 Old Comment=1k New Comment=220
+Change Component Comment : Designator=R29 Old Comment=1k New Comment=220
+Change Component Comment : Designator=Q3 Old Comment=BSS138 New Comment=P-MOSFET
+Change Component Designator: OldDesignator=MOSFET_1 NewDesignator=Q2
+Change Component Designator: OldDesignator=MOSFET_2 NewDesignator=Q1
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q4
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q6
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q7
+Change Component Designator: OldDesignator=Q* NewDesignator=Q8
+Change Component Designator: OldDesignator=SW0 NewDesignator=SW1
+Change Component Designator: OldDesignator=SW1 NewDesignator=SW7
+Added Component: Designator=Q5(SOT23)
+Added Component: Designator=Q9(TO252 (DPAK))
+Added Component: Designator=Q10(TO252 (DPAK))
+Added Component: Designator=Q11(TO252 (DPAK))
+Added Component: Designator=R26(R0603)
+Added Component: Designator=R27(R0603)
+Added Component: Designator=R28(R0603)
+Added Component: Designator=R29(R0603)
+Added Component: Designator=R35(R0603)
+Added Component: Designator=R37(R0603)
+Added Component: Designator=R39(R0603)
+Added Component: Designator=R54(R0603)
+Added Component: Designator=SW2(Slide_Switch)
+Added Component: Designator=SW3(Slide_Switch)
+Added Component: Designator=SW4(Slide_Switch)
+Added Component: Designator=SW5(Slide_Switch)
+Added Component: Designator=SW6(Slide_Switch)
+Added Pin To Net: NetName=NetF1_2 Pin=Q3-2
+Added Pin To Net: NetName=NetCOM1_3 Pin=Q3-3
+Added Pin To Net: NetName=+3.3V Pin=Q3-1
+Added Pin To Net: NetName=NetFUN2_4 Pin=Q3-3
+Added Pin To Net: NetName=+3.3V Pin=Q9-2
+Added Pin To Net: NetName=NetC3_1 Pin=Q9-3
+Added Pin To Net: NetName=+5V/1 Pin=Q10-2
+Added Pin To Net: NetName=NetC1_1 Pin=Q10-3
+Added Pin To Net: NetName=+7V Pin=Q11-2
+Added Pin To Net: NetName=NetC5_1 Pin=Q11-3
+Added Pin To Net: NetName=NetCOM1_3 Pin=R8-2
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=NetLED5_2 Pin=R26-1
+Added Pin To Net: NetName=NetR26_1 Pin=R26-1
+Added Pin To Net: NetName=GND Pin=R26-2
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=NetLED4_2 Pin=R27-1
+Added Pin To Net: NetName=NetR26_1 Pin=R27-1
+Added Pin To Net: NetName=GND Pin=R27-2
+Added Pin To Net: NetName=GND Pin=R28-2
+Added Pin To Net: NetName=NetC5_1 Pin=R28-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R29-1
+Added Pin To Net: NetName=NetR29_1 Pin=R29-1
+Added Pin To Net: NetName=GND Pin=R29-2
+Added Pin To Net: NetName=NetR29_2 Pin=R29-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=NetR34_1 Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=NetR36_1 Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=NetR38_1 Pin=R8-2
+Added Pin To Net: NetName=NetR45_2 Pin=R45-2
+Added Pin To Net: NetName=GND Pin=R45-1
+Added Pin To Net: NetName=NetR53_1 Pin=R45-2
+Added Pin To Net: NetName=GND Pin=SW2-3
+Added Pin To Net: NetName=GND Pin=SW2-3
+Added Pin To Net: NetName=GND Pin=SW3-3
+Added Pin To Net: NetName=GND Pin=SW3-3
+Added Pin To Net: NetName=GND Pin=SW4-3
+Added Pin To Net: NetName=GND Pin=SW4-3
+Added Pin To Net: NetName=GND Pin=SW5-3
+Added Pin To Net: NetName=GND Pin=SW5-3
+Added Pin To Net: NetName=GND Pin=SW6-3
+Added Pin To Net: NetName=GND Pin=SW6-3
+Change Net Name : Old Net Name=NetMOSFET_1_3 New Net Name=NetQ2_3
+Change Net Name : Old Net Name=NetMOSFET_2_1 New Net Name=NetQ1_1
+Change Net Name : Old Net Name=NetQ2_2 New Net Name=NetQ4_2
+Change Net Name : Old Net Name=NetQ5_2 New Net Name=NetQ7_2
+Change Net Name : Old Net Name=NetSW1_2 New Net Name=NetSW7_2
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R8-1
+Added Pin To Net: NetName=NetQ3_1 Pin=SW2-1
+Added Pin To Net: NetName=NetQ3_1 Pin=SW2-1
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ5_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ5_2 Pin=R13-1
+Added Pin To Net: NetName=NetQ5_2 Pin=U1-27
+Added Net: Name=NetQ5_2
+Added Pin To Net: NetName=NetQ6_2 Pin=Q6-2
+Added Pin To Net: NetName=NetQ6_2 Pin=R15-1
+Added Pin To Net: NetName=NetQ6_2 Pin=U1-28
+Added Net: Name=NetQ6_2
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-1
+Added Pin To Net: NetName=NetQ8_1 Pin=R19-1
+Added Pin To Net: NetName=NetQ8_1 Pin=SW3-1
+Added Pin To Net: NetName=NetQ8_1 Pin=SW3-1
+Added Net: Name=NetQ8_1
+Added Pin To Net: NetName=NetQ9_1 Pin=Q9-1
+Added Pin To Net: NetName=NetQ9_1 Pin=R22-1
+Added Pin To Net: NetName=NetQ9_1 Pin=SW4-1
+Added Pin To Net: NetName=NetQ9_1 Pin=SW4-1
+Added Net: Name=NetQ9_1
+Added Pin To Net: NetName=NetQ10_1 Pin=Q10-1
+Added Pin To Net: NetName=NetQ10_1 Pin=R25-1
+Added Pin To Net: NetName=NetQ10_1 Pin=SW5-1
+Added Pin To Net: NetName=NetQ10_1 Pin=SW5-1
+Added Net: Name=NetQ10_1
+Added Pin To Net: NetName=NetQ11_1 Pin=Q11-1
+Added Pin To Net: NetName=NetQ11_1 Pin=R28-1
+Added Pin To Net: NetName=NetQ11_1 Pin=SW6-1
+Added Pin To Net: NetName=NetQ11_1 Pin=SW6-1
+Added Net: Name=NetQ11_1
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component Q7 BSS138
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component Q8 P-MOSFET
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component Q9 P-MOSFET
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component Q10 P-MOSFET
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component Q11 P-MOSFET
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R20 1k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R26 1k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R27 220
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R28 220
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R29 1k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R30 1k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R37 4.7k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component SW2 3-way switch
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component SW3 3-way switch
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component SW4 3-way switch
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component SW5 3-way switch
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component SW6 3-way switch

@@ -1,0 +1,86 @@
+Removed Pin From Net: NetName=NetC44_1 Pin=C39-1
+Removed Pin From Net: NetName=NetQ8_1 Pin=R19-1
+Removed Pin From Net: NetName=NetC9_1 Pin=R19-2
+Removed Pin From Net: NetName=NetR34_1 Pin=R26-1
+Removed Pin From Net: NetName=NetR34_2 Pin=R26-2
+Removed Pin From Net: NetName=NetR34_1 Pin=R27-1
+Removed Pin From Net: NetName=GND Pin=R27-2
+Removed Pin From Net: NetName=NetQ11_1 Pin=R28-1
+Removed Pin From Net: NetName=NetC24_1 Pin=R28-2
+Removed Pin From Net: NetName=NetR40_1 Pin=R29-1
+Removed Pin From Net: NetName=NetR40_2 Pin=R29-2
+Removed Pin From Net: NetName=NetR48_1 Pin=R33-1
+Removed Pin From Net: NetName=+3.3V Pin=R33-2
+Removed Pin From Net: NetName=GND Pin=R41-1
+Removed Pin From Net: NetName=NetL9_2 Pin=R41-2
+Removed Pin From Net: NetName=NetL13_2 Pin=R45-1
+Removed Pin From Net: NetName=NetLIPO BALANCE_4 Pin=R45-2
+Removed Pin From Net: NetName=GND Pin=R46-1
+Removed Pin From Net: NetName=NetL13_2 Pin=R46-2
+Removed Pin From Net: NetName=GND Pin=R50-1
+Removed Pin From Net: NetName=NetL11_2 Pin=R50-2
+Added Component: Designator=C44(0603)
+Added Component: Designator=R20(R0603)
+Added Component: Designator=R34(R0603)
+Added Component: Designator=R35(R0603)
+Added Component: Designator=R39(R0603)
+Added Component: Designator=R40(R0603)
+Added Component: Designator=R49(R0603)
+Added Component: Designator=R62(R0603)
+Added Component: Designator=R66(R0603)
+Added Component: Designator=R69(R0603)
+Added Component: Designator=R70(R0603)
+Added Pin To Net: NetName=NetC39_1 Pin=C39-1
+Added Pin To Net: NetName=NetC44_1 Pin=C39-1
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=+3.3V Pin=R19-1
+Added Pin To Net: NetName=NetCONV1_1 Pin=R19-2
+Added Pin To Net: NetName=NetQ8_1 Pin=R19-1
+Added Pin To Net: NetName=NetC9_1 Pin=R19-2
+Added Pin To Net: NetName=+3.3V Pin=R26-1
+Added Pin To Net: NetName=NetCONV2_1 Pin=R26-2
+Added Pin To Net: NetName=NetQ9_1 Pin=R27-1
+Added Pin To Net: NetName=NetC14_1 Pin=R27-2
+Added Pin To Net: NetName=NetR28_1 Pin=R28-1
+Added Pin To Net: NetName=NetR28_2 Pin=R28-2
+Added Pin To Net: NetName=NetR28_1 Pin=R29-1
+Added Pin To Net: NetName=GND Pin=R29-2
+Added Pin To Net: NetName=NetQ10_1 Pin=R33-1
+Added Pin To Net: NetName=NetC19_1 Pin=R33-2
+Added Pin To Net: NetName=NetR34_1 Pin=R26-1
+Added Pin To Net: NetName=NetR34_2 Pin=R26-2
+Added Pin To Net: NetName=NetR34_1 Pin=R27-1
+Added Pin To Net: NetName=GND Pin=R27-2
+Added Pin To Net: NetName=NetQ11_1 Pin=R28-1
+Added Pin To Net: NetName=NetC24_1 Pin=R28-2
+Added Pin To Net: NetName=NetR40_1 Pin=R29-1
+Added Pin To Net: NetName=NetR40_2 Pin=R29-2
+Added Pin To Net: NetName=NetR40_1 Pin=R41-1
+Added Pin To Net: NetName=GND Pin=R41-2
+Added Pin To Net: NetName=NetC39_1 Pin=R45-1
+Added Pin To Net: NetName=NetBUTTONS_1 Pin=R45-2
+Added Pin To Net: NetName=NetC40_1 Pin=R46-1
+Added Pin To Net: NetName=NetBUTTONS_2 Pin=R46-2
+Added Pin To Net: NetName=NetR48_1 Pin=R33-1
+Added Pin To Net: NetName=+3.3V Pin=R33-2
+Added Pin To Net: NetName=NetR50_1 Pin=R50-1
+Added Pin To Net: NetName=NetR50_2 Pin=R50-2
+Added Pin To Net: NetName=GND Pin=R41-1
+Added Pin To Net: NetName=NetL9_2 Pin=R41-2
+Added Pin To Net: NetName=GND Pin=R50-1
+Added Pin To Net: NetName=NetL11_2 Pin=R50-2
+Added Pin To Net: NetName=NetL13_2 Pin=R45-1
+Added Pin To Net: NetName=NetLIPO BALANCE_4 Pin=R45-2
+Added Pin To Net: NetName=GND Pin=R46-1
+Added Pin To Net: NetName=NetL13_2 Pin=R46-2
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component C44 Cap
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R20 1k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R34 1k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R35 1k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R39 1k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R40 1k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R49 1.5k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R62 2.2k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R66 22k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R69 4.7k
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component R70 22k

@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=NetC9_1 Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Change Component Footprint: Designator=F1 Old Footprint=fuse New Footprint=3557-2 KEYSTONE
+Change Component Footprint: Designator=F2 Old Footprint=fuse New Footprint=3557-2 KEYSTONE
+Change Component Footprint: Designator=F3 Old Footprint=fuse New Footprint=3557-2 KEYSTONE
+Change Component Footprint: Designator=F4 Old Footprint=fuse New Footprint=3557-2 KEYSTONE
+Added Component: Designator=C9(5mm)
+Added Component: Designator=IDC1(IDC_10_1.27)
+Added Component: Designator=LED_UP(JST SR SH 1.0)
+Added Component: Designator=LIGHTS(JST XH 3)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC9_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetIDC1_1 Pin=IDC1-1
+Added Pin To Net: NetName=NetIDC1_2 Pin=IDC1-2
+Added Pin To Net: NetName=NetIDC1_3 Pin=IDC1-3
+Added Pin To Net: NetName=NetIDC1_4 Pin=IDC1-4
+Added Pin To Net: NetName=+3.3V Pin=IDC1-5
+Added Pin To Net: NetName=NetIDC1_6 Pin=IDC1-6
+Added Pin To Net: NetName=+5V/2 Pin=IDC1-7
+Added Pin To Net: NetName=NetIDC1_8 Pin=IDC1-8
+Added Pin To Net: NetName=GND Pin=IDC1-9
+Added Pin To Net: NetName=GND Pin=IDC1-10
+Added Pin To Net: NetName=+3.3V Pin=LED_UP-1
+Added Pin To Net: NetName=NetLED_UP_2 Pin=LED_UP-2
+Added Pin To Net: NetName=NetLIGHTS_1 Pin=LIGHTS-1
+Added Pin To Net: NetName=+5V/1 Pin=LIGHTS-2
+Added Pin To Net: NetName=GND Pin=LIGHTS-3
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component C8 1000u
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component C9 1000u
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component IDC1 STM32 
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component LED_UP 2 PIN CONNECTOR
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component LIGHTS 

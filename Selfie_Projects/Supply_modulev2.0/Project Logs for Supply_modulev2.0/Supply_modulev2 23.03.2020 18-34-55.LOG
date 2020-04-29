@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=Servo_back_R NewDesignator=Servo_back
+Change Component Designator: OldDesignator=Servo_front_L NewDesignator=Servo_front
+Change Pin Designator/Name:  Old Designator=U1A-53 Old Name=PC12 New Designator =PB3 New Name=55
+Change Pin Designator/Name:  Old Designator=U1A-55 Old Name=PB3 New Designator =PB2 New Name=28

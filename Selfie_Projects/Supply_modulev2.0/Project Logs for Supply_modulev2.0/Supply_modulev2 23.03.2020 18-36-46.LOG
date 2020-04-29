@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=GND2 Pin=JP5-1
+Removed Pin From Net: NetName=GND Pin=JP5-2
+Removed Pin From Net: NetName=NetCOM1_3 Pin=MOSFET_1_Big-MOSFET0-2
+Removed Pin From Net: NetName=NetC5_1 Pin=MOSFET_1_Big-MOSFET1-2
+Removed Pin From Net: NetName=NetC4_1 Pin=MOSFET_1_Small-MOSFET1-2
+Removed Pin From Net: NetName=NetC3_1 Pin=MOSFET_1_Small-MOSFET2-2
+Removed Pin From Net: NetName=NetC1_1 Pin=MOSFET_1_Small-MOSFET3-2
+Removed Pin From Net: NetName=NetF1_2 Pin=MOSFET_2_Big-MOSFET0-2
+Removed Pin From Net: NetName=+7V Pin=MOSFET_2_Big-MOSFET1-2
+Removed Pin From Net: NetName=+5V/2 Pin=MOSFET_2_Small-MOSFET1-2
+Removed Pin From Net: NetName=+3.3V Pin=MOSFET_2_Small-MOSFET2-2
+Removed Pin From Net: NetName=+5V/1 Pin=MOSFET_2_Small-MOSFET3-2
+Removed Pin From Net: NetName=NetF1_2 Pin=R1_Big-MOSFET0-2
+Removed Pin From Net: NetName=+7V Pin=R1_Big-MOSFET1-2
+Removed Pin From Net: NetName=+5V/2 Pin=R1_Small-MOSFET1-2
+Removed Pin From Net: NetName=+3.3V Pin=R1_Small-MOSFET2-2
+Removed Pin From Net: NetName=+5V/1 Pin=R1_Small-MOSFET3-2
+Removed Pin From Net: NetName=NetServo_back_3 Pin=U1-62
+Removed Member From Class: ClassName=Supply_modulev2.0 Member=JP5
+Added Component: Designator=Servo_back_L(Raster_2.54_3pin)
+Added Component: Designator=Servo_front_R(Raster_2.54_3pin)
+Added Component: Designator=SW0(Slide_Switch)
+Added Component: Designator=SW1(TACT_SWITCH_SMD)
+Added Pin To Net: NetName=+15V Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=Servo_back_L-1
+Added Pin To Net: NetName=+5V/1 Pin=Servo_back_L-2
+Added Pin To Net: NetName=GND Pin=Servo_front_R-1
+Added Pin To Net: NetName=+5V/1 Pin=Servo_front_R-2
+Added Pin To Net: NetName=VCC Pin=SW0-2
+Added Pin To Net: NetName=VCC Pin=SW0-2
+Added Pin To Net: NetName=GND Pin=SW0-3
+Added Pin To Net: NetName=GND Pin=SW0-3
+Added Pin To Net: NetName=+3.6V/0 Pin=SW1-1
+Added Pin To Net: NetName=+3.6V/0 Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=U1-28
+Added Pin To Net: NetName=NetServo_back_3 Pin=U1-29
+Added Net: Name=NetBuzzer_1_2
+Added Pin To Net: NetName=NetR38_1 Pin=U1-52
+Added Net: Name=NetR38_1
+Added Net: Name=NetR38_2
+Added Net: Name=NetR39_1
+Added Pin To Net: NetName=NetServo_back_L_3 Pin=Servo_back_L-3
+Added Pin To Net: NetName=NetServo_back_L_3 Pin=U1-30
+Added Net: Name=NetServo_back_L_3
+Added Pin To Net: NetName=NetServo_front_R_3 Pin=Servo_front_R-3
+Added Pin To Net: NetName=NetServo_front_R_3 Pin=U1-62
+Added Net: Name=NetServo_front_R_3
+Added Pin To Net: NetName=NetSW1_2 Pin=SW1-2
+Added Pin To Net: NetName=NetSW1_2 Pin=SW1-2
+Added Pin To Net: NetName=NetSW1_2 Pin=U1-60
+Added Net: Name=NetSW1_2
+Added Pin To Net: NetName=NetU1_51 Pin=U1-51
+Added Net: Name=NetU1_51
+Added Pin To Net: NetName=NetU1_56 Pin=U1-56
+Added Net: Name=NetU1_56
+Added Pin To Net: NetName=NetU1_57 Pin=U1-57
+Added Net: Name=NetU1_57
+Added Pin To Net: NetName=NetU1_58 Pin=U1-58
+Added Net: Name=NetU1_58
+Added Pin To Net: NetName=NetU1_59 Pin=U1-59
+Added Net: Name=NetU1_59
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component Servo_back_L Servo_con
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component Servo_front_R Servo_con
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component SW0 3-way switch
+Added Member To Class: ClassName=Supply_modulev2.0 Member=Component SW1 single state switch

@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=GND Pin=R46-2
+Removed Pin From Net: NetName=GND Pin=R48-2
+Removed Pin From Net: NetName=GND Pin=R50-2
+Removed Pin From Net: NetName=GND Pin=R52-2
+Removed Pin From Net: NetName=+5V/1 Pin=T6-3
+Removed Pin From Net: NetName=+5V/1 Pin=T7-3
+Removed Pin From Net: NetName=+5V/1 Pin=T8-3
+Removed Pin From Net: NetName=+5V/1 Pin=T9-3
+Removed Member From Class: ClassName=Supply_modulev2.0 Member=LED2
+Removed Member From Class: ClassName=Supply_modulev2.0 Member=LED3
+Removed Member From Class: ClassName=Supply_modulev2.0 Member=LED4
+Removed Member From Class: ClassName=Supply_modulev2.0 Member=LED5
+Removed Member From Class: ClassName=Supply_modulev2.0 Member=R57
+Removed Member From Class: ClassName=Supply_modulev2.0 Member=R58
+Removed Member From Class: ClassName=Supply_modulev2.0 Member=R59
+Removed Member From Class: ClassName=Supply_modulev2.0 Member=R60
+Removed Member From Class: ClassName=Supply_modulev2.0 Member=R61
+Removed Member From Class: ClassName=Supply_modulev2.0 Member=R62
+Removed Member From Class: ClassName=Supply_modulev2.0 Member=R63
+Removed Member From Class: ClassName=Supply_modulev2.0 Member=R64
+Removed Member From Class: ClassName=Supply_modulev2.0 Member=T6
+Removed Member From Class: ClassName=Supply_modulev2.0 Member=T7
+Removed Member From Class: ClassName=Supply_modulev2.0 Member=T8
+Removed Member From Class: ClassName=Supply_modulev2.0 Member=T9
+Change Component Designator: OldDesignator=R53 NewDesignator=R45
+Change Component Designator: OldDesignator=R54 NewDesignator=R46
+Change Component Designator: OldDesignator=R55 NewDesignator=R47
+Change Component Designator: OldDesignator=R56 NewDesignator=R48
+Change Component Designator: OldDesignator=R57 NewDesignator=R49
+Change Component Designator: OldDesignator=R58 NewDesignator=R50
+Change Component Designator: OldDesignator=R59 NewDesignator=R51
+Change Component Designator: OldDesignator=R60 NewDesignator=R52
+Change Component Designator: OldDesignator=R61 NewDesignator=R53
+Change Component Designator: OldDesignator=R62 NewDesignator=R54
+Change Component Designator: OldDesignator=R63 NewDesignator=R55
+Change Component Designator: OldDesignator=R64 NewDesignator=R56
+Added Pin To Net: NetName=NetQ6_2 Pin=U1-28
+Change Net Name : Old Net Name=NetR53_1 New Net Name=NetR45_1
+Change Net Name : Old Net Name=NetR55_1 New Net Name=NetR47_1
+Change Net Name : Old Net Name=NetR57_1 New Net Name=NetR49_1
+Change Net Name : Old Net Name=NetR59_1 New Net Name=NetR51_1
+Change Net Name : Old Net Name=NetR60_1 New Net Name=NetR52_1
+Change Net Name : Old Net Name=NetR60_2 New Net Name=NetR52_2
