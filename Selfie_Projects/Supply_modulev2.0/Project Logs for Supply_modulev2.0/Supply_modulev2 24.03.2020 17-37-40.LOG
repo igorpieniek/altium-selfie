@@ -1,9 +1,0 @@
-Added Component: Designator=BATT1(XT30-katowy-in)
-Added Component: Designator=MOTORS(XT30-katowy-in)
-Added Pin To Net: NetName=VCC Pin=BATT1-1
-Added Pin To Net: NetName=GND Pin=BATT1-2
-Added Pin To Net: NetName=NetHALL_2 Pin=MOTORS-1
-Added Pin To Net: NetName=GND Pin=MOTORS-2
-Added Pin To Net: NetName=NetQ4_2 Pin=U1-28
-Added Member To Class: ClassName=Supply_modulev2.0 Member=Component BATT1 BATT
-Added Member To Class: ClassName=Supply_modulev2.0 Member=Component MOTORS BATT

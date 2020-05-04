@@ -1,9 +1,0 @@
-Added Component: Designator=SW8(TACT_SWITCH_SMD)
-Added Pin To Net: NetName=GND Pin=SW8-1
-Added Pin To Net: NetName=GND Pin=SW8-1
-Added Pin To Net: NetName=GND Pin=U1-28
-Added Pin To Net: NetName=NetSW8_2 Pin=SW8-2
-Added Pin To Net: NetName=NetSW8_2 Pin=SW8-2
-Added Pin To Net: NetName=NetSW8_2 Pin=U1-7
-Added Net: Name=NetSW8_2
-Added Member To Class: ClassName=Supply_modulev2.0 Member=Component SW8 single state switch

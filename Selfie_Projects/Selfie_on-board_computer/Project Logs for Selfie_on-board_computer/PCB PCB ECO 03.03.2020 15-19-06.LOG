@@ -1,9 +1,0 @@
-Change Component DesignItemId : Designator=* Old DesignItemId=ESP-WROOM-32 New DesignItemId=SPI
-Change Component DesignItemId : Designator=* Old DesignItemId=SPI New DesignItemId=ESP-WROOM-32
-Change Component Footprint: Designator=* Old Footprint=ESP-WROOM-32 New Footprint=JST SR SH 1.0
-Change Component Footprint: Designator=* Old Footprint=JST SR SH 1.0 New Footprint=ESP-WROOM-32
-Change Component Comment : Designator=* Old Comment=ESP-WROOM-32 New Comment=SERVO_OUT
-Change Component Comment : Designator=* Old Comment=SERVO_OUT New Comment=ESP-WROOM-32
-Added Component: Designator=CON1(65100516121)
-Added Member To Class: ClassName=Board Member=Component * SERVO_OUT
-Added Member To Class: ClassName=Board Member=Component CON1 65100516121

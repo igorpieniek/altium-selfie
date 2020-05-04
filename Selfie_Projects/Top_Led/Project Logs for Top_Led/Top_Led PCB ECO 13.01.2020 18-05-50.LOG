@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=Net*_1 Pin=R2-1
-Removed Pin From Net: NetName=Net*_5 Pin=T-3
-Added Pin To Net: NetName=Net*_5 Pin=R2-1
-Added Pin To Net: NetName=Net*_1 Pin=T-3
-Added Room: Name=Top_Led

@@ -1,5 +1,0 @@
-Added Component: Designator=Transistor_Buzzer(SOT457)
-Added Pin To Net: NetName=GND_3V3 Pin=Transistor_Buzzer-1
-Added Pin To Net: NetName=NetR_TRANSISTOR_Buzzer_2 Pin=Transistor_Buzzer-2
-Added Pin To Net: NetName=NetBuzzer_1 Pin=Transistor_Buzzer-6
-Added Member To Class: ClassName=TEST_SCH Member=Component Transistor_Buzzer PBSS4160DPN.115

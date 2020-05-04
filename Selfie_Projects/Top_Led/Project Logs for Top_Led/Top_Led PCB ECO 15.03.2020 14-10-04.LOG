@@ -1,9 +1,0 @@
-Added Component: Designator=LED1(5mm THT)
-Added Component: Designator=MOSFET_1(SOT23)
-Added Pin To Net: NetName=NetConnector_1 Pin=LED1-1
-Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
-Added Pin To Net: NetName=NetMOSFET_1_1 Pin=MOSFET_1-1
-Added Pin To Net: NetName=NetConnector_5 Pin=MOSFET_1-2
-Added Pin To Net: NetName=NetMOSFET_1_3 Pin=MOSFET_1-3
-Added Member To Class: ClassName=Top_Led Member=Component LED1 LED
-Added Member To Class: ClassName=Top_Led Member=Component MOSFET_1 N-MOSFET

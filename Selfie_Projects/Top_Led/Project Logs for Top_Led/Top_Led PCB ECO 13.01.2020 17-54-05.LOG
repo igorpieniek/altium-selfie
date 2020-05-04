@@ -1,9 +1,0 @@
-Added Component: Designator=*(JST SR SH 1.0)
-Added Pin To Net: NetName=Net*_1 Pin=*-1
-Added Pin To Net: NetName=Net*_1 Pin=*-2
-Added Pin To Net: NetName=Net*_3 Pin=*-3
-Added Pin To Net: NetName=Net*_3 Pin=*-4
-Added Pin To Net: NetName=Net*_5 Pin=*-5
-Added Pin To Net: NetName=Net*_5 Pin=*-6
-Added Member To Class: ClassName=Top_Led Member=Component * BUTTONS
-Added Room: Name=Top_Led
