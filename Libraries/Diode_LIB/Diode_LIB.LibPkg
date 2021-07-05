@@ -56,7 +56,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TUXDNNXX
 
 [Document2]
-DocumentPath=SMA_Schottky_diode.PcbLib
+DocumentPath=Schottky.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -130,7 +130,7 @@ OutputDefault3=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=EPSON Stylus DX4000 Series
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
